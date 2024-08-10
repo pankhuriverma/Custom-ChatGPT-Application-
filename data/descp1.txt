@@ -1,0 +1,2312 @@
+In VSS ADAS is the All Advanced Driver Assist Systems data.
+In VSS Vehicle.ADAS is the All Advanced Driver Assist Systems data.
+In VSS Acceleration is the Spatial acceleration. Axis definitions according to ISO 8855.
+In VSS Vehicle.Acceleration is the Spatial acceleration. Axis definitions according to ISO 8855.
+In VSS AngularVelocity is the Spatial rotation. Axis definitions according to ISO 8855.
+In VSS Vehicle.AngularVelocity is the Spatial rotation. Axis definitions according to ISO 8855.
+In VSS AverageSpeed is the Average speed for the current trip.
+In VSS Vehicle.AverageSpeed is the Average speed for the current trip.
+In VSS Body is the All body components.
+In VSS Vehicle.Body is the All body components.
+In VSS Cabin is the All in-cabin components, including doors.
+In VSS Vehicle.Cabin is the All in-cabin components, including doors.
+In VSS CargoVolume is the The available volume for cargo or luggage. For automobiles, this is usually the trunk volume.
+In VSS Vehicle.CargoVolume is the The available volume for cargo or luggage. For automobiles, this is usually the trunk volume.
+In VSS Chassis is the All data concerning steering, suspension, wheels, and brakes.
+In VSS Vehicle.Chassis is the All data concerning steering, suspension, wheels, and brakes.
+In VSS Connectivity is the Connectivity data.
+In VSS Vehicle.Connectivity is the Connectivity data.
+In VSS CurbWeight is the Vehicle curb weight, including all liquids and full tank of fuel, but no cargo or passengers.
+In VSS Vehicle.CurbWeight is the Vehicle curb weight, including all liquids and full tank of fuel, but no cargo or passengers.
+In VSS CurrentLocation is the The current latitude and longitude of the vehicle.
+In VSS Vehicle.CurrentLocation is the The current latitude and longitude of the vehicle.
+In VSS CurrentOverallWeight is the Current overall Vehicle weight. Including passengers, cargo and other load inside the car.
+In VSS Vehicle.CurrentOverallWeight is the Current overall Vehicle weight. Including passengers, cargo and other load inside the car.
+In VSS Driver is the Driver data.
+In VSS Vehicle.Driver is the Driver data.
+In VSS EmissionsCO2 is the The CO2 emissions.
+In VSS Vehicle.EmissionsCO2 is the The CO2 emissions.
+In VSS Exterior is the Information about exterior measured by vehicle.
+In VSS Vehicle.Exterior is the Information about exterior measured by vehicle.
+In VSS GrossWeight is the Curb weight of vehicle, including all liquids and full tank of fuel and full load of cargo and passengers.
+In VSS Vehicle.GrossWeight is the Curb weight of vehicle, including all liquids and full tank of fuel and full load of cargo and passengers.
+In VSS Height is the Overall vehicle height.
+In VSS Vehicle.Height is the Overall vehicle height.
+In VSS IsBrokenDown is the Vehicle breakdown or any similar event causing vehicle to stop on the road, that might pose a risk to other road users. True = Vehicle broken down on the road, due to e.g. engine problems, flat tire, out of gas, brake problems. False = Vehicle not broken down.
+In VSS Vehicle.IsBrokenDown is the Vehicle breakdown or any similar event causing vehicle to stop on the road, that might pose a risk to other road users. True = Vehicle broken down on the road, due to e.g. engine problems, flat tire, out of gas, brake problems. False = Vehicle not broken down.
+In VSS IsMoving is the Indicates whether the vehicle is stationary or moving.
+In VSS Vehicle.IsMoving is the Indicates whether the vehicle is stationary or moving.
+In VSS Length is the Overall vehicle length.
+In VSS Vehicle.Length is the Overall vehicle length.
+In VSS LowVoltageSystemState is the State of the supply voltage of the control units (usually 12V).
+In VSS Vehicle.LowVoltageSystemState is the State of the supply voltage of the control units (usually 12V).
+In VSS MaxTowBallWeight is the Maximum vertical weight on the tow ball of a trailer.
+In VSS Vehicle.MaxTowBallWeight is the Maximum vertical weight on the tow ball of a trailer.
+In VSS MaxTowWeight is the Maximum weight of trailer.
+In VSS Vehicle.MaxTowWeight is the Maximum weight of trailer.
+In VSS OBD is the OBD data.
+In VSS Vehicle.OBD is the OBD data.
+In VSS Powertrain is the Powertrain data for battery management, etc.
+In VSS Vehicle.Powertrain is the Powertrain data for battery management, etc.
+In VSS RoofLoad is the The permitted total weight of cargo and installations (e.g. a roof rack) on top of the vehicle.
+In VSS Vehicle.RoofLoad is the The permitted total weight of cargo and installations (e.g. a roof rack) on top of the vehicle.
+In VSS Service is the Service data.
+In VSS Vehicle.Service is the Service data.
+In VSS Speed is the Vehicle speed.
+In VSS Vehicle.Speed is the Vehicle speed.
+In VSS Trailer is the Trailer signals.
+In VSS Vehicle.Trailer is the Trailer signals.
+In VSS TravelledDistance is the Odometer reading, total distance travelled during the lifetime of the vehicle.
+In VSS Vehicle.TravelledDistance is the Odometer reading, total distance travelled during the lifetime of the vehicle.
+In VSS TripMeterReading is the Current trip meter reading.
+In VSS Vehicle.TripMeterReading is the Current trip meter reading.
+In VSS VehicleIdentification is the Attributes that identify a vehicle.
+In VSS Vehicle.VehicleIdentification is the Attributes that identify a vehicle.
+In VSS VersionVSS is the Supported Version of VSS.
+In VSS Vehicle.VersionVSS is the Supported Version of VSS.
+In VSS Width is the Overall vehicle width.
+In VSS Vehicle.Width is the Overall vehicle width.
+In VSS ADAS is the All Advanced Driver Assist Systems data.
+In VSS Vehicle.ADAS is the All Advanced Driver Assist Systems data.
+In VSS Acceleration is the Spatial acceleration. Axis definitions according to ISO 8855.
+In VSS Vehicle.Acceleration is the Spatial acceleration. Axis definitions according to ISO 8855.
+In VSS AngularVelocity is the Spatial rotation. Axis definitions according to ISO 8855.
+In VSS Vehicle.AngularVelocity is the Spatial rotation. Axis definitions according to ISO 8855.
+In VSS AverageSpeed is the Average speed for the current trip.
+In VSS Vehicle.AverageSpeed is the Average speed for the current trip.
+In VSS Body is the All body components.
+In VSS Vehicle.Body is the All body components.
+In VSS Cabin is the All in-cabin components, including doors.
+In VSS Vehicle.Cabin is the All in-cabin components, including doors.
+In VSS CargoVolume is the The available volume for cargo or luggage. For automobiles, this is usually the trunk volume.
+In VSS Vehicle.CargoVolume is the The available volume for cargo or luggage. For automobiles, this is usually the trunk volume.
+In VSS Chassis is the All data concerning steering, suspension, wheels, and brakes.
+In VSS Vehicle.Chassis is the All data concerning steering, suspension, wheels, and brakes.
+In VSS Connectivity is the Connectivity data.
+In VSS Vehicle.Connectivity is the Connectivity data.
+In VSS CurbWeight is the Vehicle curb weight, including all liquids and full tank of fuel, but no cargo or passengers.
+In VSS Vehicle.CurbWeight is the Vehicle curb weight, including all liquids and full tank of fuel, but no cargo or passengers.
+In VSS CurrentLocation is the The current latitude and longitude of the vehicle.
+In VSS Vehicle.CurrentLocation is the The current latitude and longitude of the vehicle.
+In VSS CurrentOverallWeight is the Current overall Vehicle weight. Including passengers, cargo and other load inside the car.
+In VSS Vehicle.CurrentOverallWeight is the Current overall Vehicle weight. Including passengers, cargo and other load inside the car.
+In VSS Driver is the Driver data.
+In VSS Vehicle.Driver is the Driver data.
+In VSS EmissionsCO2 is the The CO2 emissions.
+In VSS Vehicle.EmissionsCO2 is the The CO2 emissions.
+In VSS Exterior is the Information about exterior measured by vehicle.
+In VSS Vehicle.Exterior is the Information about exterior measured by vehicle.
+In VSS GrossWeight is the Curb weight of vehicle, including all liquids and full tank of fuel and full load of cargo and passengers.
+In VSS Vehicle.GrossWeight is the Curb weight of vehicle, including all liquids and full tank of fuel and full load of cargo and passengers.
+In VSS Height is the Overall vehicle height.
+In VSS Vehicle.Height is the Overall vehicle height.
+In VSS IsBrokenDown is the Vehicle breakdown or any similar event causing vehicle to stop on the road, that might pose a risk to other road users. True = Vehicle broken down on the road, due to e.g. engine problems, flat tire, out of gas, brake problems. False = Vehicle not broken down.
+In VSS Vehicle.IsBrokenDown is the Vehicle breakdown or any similar event causing vehicle to stop on the road, that might pose a risk to other road users. True = Vehicle broken down on the road, due to e.g. engine problems, flat tire, out of gas, brake problems. False = Vehicle not broken down.
+In VSS IsMoving is the Indicates whether the vehicle is stationary or moving.
+In VSS Vehicle.IsMoving is the Indicates whether the vehicle is stationary or moving.
+In VSS Length is the Overall vehicle length.
+In VSS Vehicle.Length is the Overall vehicle length.
+In VSS LowVoltageSystemState is the State of the supply voltage of the control units (usually 12V).
+In VSS Vehicle.LowVoltageSystemState is the State of the supply voltage of the control units (usually 12V).
+In VSS MaxTowBallWeight is the Maximum vertical weight on the tow ball of a trailer.
+In VSS Vehicle.MaxTowBallWeight is the Maximum vertical weight on the tow ball of a trailer.
+In VSS MaxTowWeight is the Maximum weight of trailer.
+In VSS Vehicle.MaxTowWeight is the Maximum weight of trailer.
+In VSS OBD is the OBD data.
+In VSS Vehicle.OBD is the OBD data.
+In VSS Powertrain is the Powertrain data for battery management, etc.
+In VSS Vehicle.Powertrain is the Powertrain data for battery management, etc.
+In VSS RoofLoad is the The permitted total weight of cargo and installations (e.g. a roof rack) on top of the vehicle.
+In VSS Vehicle.RoofLoad is the The permitted total weight of cargo and installations (e.g. a roof rack) on top of the vehicle.
+In VSS Service is the Service data.
+In VSS Vehicle.Service is the Service data.
+In VSS Speed is the Vehicle speed.
+In VSS Vehicle.Speed is the Vehicle speed.
+In VSS Trailer is the Trailer signals.
+In VSS Vehicle.Trailer is the Trailer signals.
+In VSS TravelledDistance is the Odometer reading, total distance travelled during the lifetime of the vehicle.
+In VSS Vehicle.TravelledDistance is the Odometer reading, total distance travelled during the lifetime of the vehicle.
+In VSS TripMeterReading is the Current trip meter reading.
+In VSS Vehicle.TripMeterReading is the Current trip meter reading.
+In VSS VehicleIdentification is the Attributes that identify a vehicle.
+In VSS Vehicle.VehicleIdentification is the Attributes that identify a vehicle.
+In VSS VersionVSS is the Supported Version of VSS.
+In VSS Vehicle.VersionVSS is the Supported Version of VSS.
+In VSS Width is the Overall vehicle width.
+In VSS Vehicle.Width is the Overall vehicle width.
+In VSS ADAS is the All Advanced Driver Assist Systems data.
+In VSS Vehicle.ADAS is the All Advanced Driver Assist Systems data.
+In VSS Acceleration is the Spatial acceleration. Axis definitions according to ISO 8855.
+In VSS Vehicle.Acceleration is the Spatial acceleration. Axis definitions according to ISO 8855.
+In VSS AngularVelocity is the Spatial rotation. Axis definitions according to ISO 8855.
+In VSS Vehicle.AngularVelocity is the Spatial rotation. Axis definitions according to ISO 8855.
+In VSS AverageSpeed is the Average speed for the current trip.
+In VSS Vehicle.AverageSpeed is the Average speed for the current trip.
+In VSS Body is the All body components.
+In VSS Vehicle.Body is the All body components.
+In VSS Cabin is the All in-cabin components, including doors.
+In VSS Vehicle.Cabin is the All in-cabin components, including doors.
+In VSS CargoVolume is the The available volume for cargo or luggage. For automobiles, this is usually the trunk volume.
+In VSS Vehicle.CargoVolume is the The available volume for cargo or luggage. For automobiles, this is usually the trunk volume.
+In VSS Chassis is the All data concerning steering, suspension, wheels, and brakes.
+In VSS Vehicle.Chassis is the All data concerning steering, suspension, wheels, and brakes.
+In VSS Connectivity is the Connectivity data.
+In VSS Vehicle.Connectivity is the Connectivity data.
+In VSS CurbWeight is the Vehicle curb weight, including all liquids and full tank of fuel, but no cargo or passengers.
+In VSS Vehicle.CurbWeight is the Vehicle curb weight, including all liquids and full tank of fuel, but no cargo or passengers.
+In VSS CurrentLocation is the The current latitude and longitude of the vehicle.
+In VSS Vehicle.CurrentLocation is the The current latitude and longitude of the vehicle.
+In VSS CurrentOverallWeight is the Current overall Vehicle weight. Including passengers, cargo and other load inside the car.
+In VSS Vehicle.CurrentOverallWeight is the Current overall Vehicle weight. Including passengers, cargo and other load inside the car.
+In VSS Driver is the Driver data.
+In VSS Vehicle.Driver is the Driver data.
+In VSS EmissionsCO2 is the The CO2 emissions.
+In VSS Vehicle.EmissionsCO2 is the The CO2 emissions.
+In VSS Exterior is the Information about exterior measured by vehicle.
+In VSS Vehicle.Exterior is the Information about exterior measured by vehicle.
+In VSS GrossWeight is the Curb weight of vehicle, including all liquids and full tank of fuel and full load of cargo and passengers.
+In VSS Vehicle.GrossWeight is the Curb weight of vehicle, including all liquids and full tank of fuel and full load of cargo and passengers.
+In VSS Height is the Overall vehicle height.
+In VSS Vehicle.Height is the Overall vehicle height.
+In VSS IsBrokenDown is the Vehicle breakdown or any similar event causing vehicle to stop on the road, that might pose a risk to other road users. True = Vehicle broken down on the road, due to e.g. engine problems, flat tire, out of gas, brake problems. False = Vehicle not broken down.
+In VSS Vehicle.IsBrokenDown is the Vehicle breakdown or any similar event causing vehicle to stop on the road, that might pose a risk to other road users. True = Vehicle broken down on the road, due to e.g. engine problems, flat tire, out of gas, brake problems. False = Vehicle not broken down.
+In VSS IsMoving is the Indicates whether the vehicle is stationary or moving.
+In VSS Vehicle.IsMoving is the Indicates whether the vehicle is stationary or moving.
+In VSS Length is the Overall vehicle length.
+In VSS Vehicle.Length is the Overall vehicle length.
+In VSS LowVoltageSystemState is the State of the supply voltage of the control units (usually 12V).
+In VSS Vehicle.LowVoltageSystemState is the State of the supply voltage of the control units (usually 12V).
+In VSS MaxTowBallWeight is the Maximum vertical weight on the tow ball of a trailer.
+In VSS Vehicle.MaxTowBallWeight is the Maximum vertical weight on the tow ball of a trailer.
+In VSS MaxTowWeight is the Maximum weight of trailer.
+In VSS Vehicle.MaxTowWeight is the Maximum weight of trailer.
+In VSS OBD is the OBD data.
+In VSS Vehicle.OBD is the OBD data.
+In VSS Powertrain is the Powertrain data for battery management, etc.
+In VSS Vehicle.Powertrain is the Powertrain data for battery management, etc.
+In VSS RoofLoad is the The permitted total weight of cargo and installations (e.g. a roof rack) on top of the vehicle.
+In VSS Vehicle.RoofLoad is the The permitted total weight of cargo and installations (e.g. a roof rack) on top of the vehicle.
+In VSS Service is the Service data.
+In VSS Vehicle.Service is the Service data.
+In VSS Speed is the Vehicle speed.
+In VSS Vehicle.Speed is the Vehicle speed.
+In VSS Trailer is the Trailer signals.
+In VSS Vehicle.Trailer is the Trailer signals.
+In VSS TravelledDistance is the Odometer reading, total distance travelled during the lifetime of the vehicle.
+In VSS Vehicle.TravelledDistance is the Odometer reading, total distance travelled during the lifetime of the vehicle.
+In VSS TripMeterReading is the Current trip meter reading.
+In VSS Vehicle.TripMeterReading is the Current trip meter reading.
+In VSS VehicleIdentification is the Attributes that identify a vehicle.
+In VSS Vehicle.VehicleIdentification is the Attributes that identify a vehicle.
+In VSS VersionVSS is the Supported Version of VSS.
+In VSS Vehicle.VersionVSS is the Supported Version of VSS.
+In VSS Width is the Overall vehicle width.
+In VSS Vehicle.Width is the Overall vehicle width.
+In VSS ADAS is the All Advanced Driver Assist Systems data.
+In VSS Vehicle.ADAS is the All Advanced Driver Assist Systems data.
+In VSS Acceleration is the Spatial acceleration. Axis definitions according to ISO 8855.
+In VSS Vehicle.Acceleration is the Spatial acceleration. Axis definitions according to ISO 8855.
+In VSS AngularVelocity is the Spatial rotation. Axis definitions according to ISO 8855.
+In VSS Vehicle.AngularVelocity is the Spatial rotation. Axis definitions according to ISO 8855.
+In VSS AverageSpeed is the Average speed for the current trip.
+In VSS Vehicle.AverageSpeed is the Average speed for the current trip.
+In VSS Body is the All body components.
+In VSS Vehicle.Body is the All body components.
+In VSS Cabin is the All in-cabin components, including doors.
+In VSS Vehicle.Cabin is the All in-cabin components, including doors.
+In VSS CargoVolume is the The available volume for cargo or luggage. For automobiles, this is usually the trunk volume.
+In VSS Vehicle.CargoVolume is the The available volume for cargo or luggage. For automobiles, this is usually the trunk volume.
+In VSS Chassis is the All data concerning steering, suspension, wheels, and brakes.
+In VSS Vehicle.Chassis is the All data concerning steering, suspension, wheels, and brakes.
+In VSS Connectivity is the Connectivity data.
+In VSS Vehicle.Connectivity is the Connectivity data.
+In VSS CurbWeight is the Vehicle curb weight, including all liquids and full tank of fuel, but no cargo or passengers.
+In VSS Vehicle.CurbWeight is the Vehicle curb weight, including all liquids and full tank of fuel, but no cargo or passengers.
+In VSS CurrentLocation is the The current latitude and longitude of the vehicle.
+In VSS Vehicle.CurrentLocation is the The current latitude and longitude of the vehicle.
+In VSS CurrentOverallWeight is the Current overall Vehicle weight. Including passengers, cargo and other load inside the car.
+In VSS Vehicle.CurrentOverallWeight is the Current overall Vehicle weight. Including passengers, cargo and other load inside the car.
+In VSS Driver is the Driver data.
+In VSS Vehicle.Driver is the Driver data.
+In VSS EmissionsCO2 is the The CO2 emissions.
+In VSS Vehicle.EmissionsCO2 is the The CO2 emissions.
+In VSS Exterior is the Information about exterior measured by vehicle.
+In VSS Vehicle.Exterior is the Information about exterior measured by vehicle.
+In VSS GrossWeight is the Curb weight of vehicle, including all liquids and full tank of fuel and full load of cargo and passengers.
+In VSS Vehicle.GrossWeight is the Curb weight of vehicle, including all liquids and full tank of fuel and full load of cargo and passengers.
+In VSS Height is the Overall vehicle height.
+In VSS Vehicle.Height is the Overall vehicle height.
+In VSS IsBrokenDown is the Vehicle breakdown or any similar event causing vehicle to stop on the road, that might pose a risk to other road users. True = Vehicle broken down on the road, due to e.g. engine problems, flat tire, out of gas, brake problems. False = Vehicle not broken down.
+In VSS Vehicle.IsBrokenDown is the Vehicle breakdown or any similar event causing vehicle to stop on the road, that might pose a risk to other road users. True = Vehicle broken down on the road, due to e.g. engine problems, flat tire, out of gas, brake problems. False = Vehicle not broken down.
+In VSS IsMoving is the Indicates whether the vehicle is stationary or moving.
+In VSS Vehicle.IsMoving is the Indicates whether the vehicle is stationary or moving.
+In VSS Length is the Overall vehicle length.
+In VSS Vehicle.Length is the Overall vehicle length.
+In VSS LowVoltageSystemState is the State of the supply voltage of the control units (usually 12V).
+In VSS Vehicle.LowVoltageSystemState is the State of the supply voltage of the control units (usually 12V).
+In VSS MaxTowBallWeight is the Maximum vertical weight on the tow ball of a trailer.
+In VSS Vehicle.MaxTowBallWeight is the Maximum vertical weight on the tow ball of a trailer.
+In VSS MaxTowWeight is the Maximum weight of trailer.
+In VSS Vehicle.MaxTowWeight is the Maximum weight of trailer.
+In VSS OBD is the OBD data.
+In VSS Vehicle.OBD is the OBD data.
+In VSS Powertrain is the Powertrain data for battery management, etc.
+In VSS Vehicle.Powertrain is the Powertrain data for battery management, etc.
+In VSS RoofLoad is the The permitted total weight of cargo and installations (e.g. a roof rack) on top of the vehicle.
+In VSS Vehicle.RoofLoad is the The permitted total weight of cargo and installations (e.g. a roof rack) on top of the vehicle.
+In VSS Service is the Service data.
+In VSS Vehicle.Service is the Service data.
+In VSS Speed is the Vehicle speed.
+In VSS Vehicle.Speed is the Vehicle speed.
+In VSS Trailer is the Trailer signals.
+In VSS Vehicle.Trailer is the Trailer signals.
+In VSS TravelledDistance is the Odometer reading, total distance travelled during the lifetime of the vehicle.
+In VSS Vehicle.TravelledDistance is the Odometer reading, total distance travelled during the lifetime of the vehicle.
+In VSS TripMeterReading is the Current trip meter reading.
+In VSS Vehicle.TripMeterReading is the Current trip meter reading.
+In VSS VehicleIdentification is the Attributes that identify a vehicle.
+In VSS Vehicle.VehicleIdentification is the Attributes that identify a vehicle.
+In VSS VersionVSS is the Supported Version of VSS.
+In VSS Vehicle.VersionVSS is the Supported Version of VSS.
+In VSS Width is the Overall vehicle width.
+In VSS Vehicle.Width is the Overall vehicle width.
+In VSS ADAS is the All Advanced Driver Assist Systems data.
+In VSS Vehicle.ADAS is the All Advanced Driver Assist Systems data.
+In VSS Acceleration is the Spatial acceleration. Axis definitions according to ISO 8855.
+In VSS Vehicle.Acceleration is the Spatial acceleration. Axis definitions according to ISO 8855.
+In VSS AngularVelocity is the Spatial rotation. Axis definitions according to ISO 8855.
+In VSS Vehicle.AngularVelocity is the Spatial rotation. Axis definitions according to ISO 8855.
+In VSS AverageSpeed is the Average speed for the current trip.
+In VSS Vehicle.AverageSpeed is the Average speed for the current trip.
+In VSS Body is the All body components.
+In VSS Vehicle.Body is the All body components.
+In VSS Cabin is the All in-cabin components, including doors.
+In VSS Vehicle.Cabin is the All in-cabin components, including doors.
+In VSS CargoVolume is the The available volume for cargo or luggage. For automobiles, this is usually the trunk volume.
+In VSS Vehicle.CargoVolume is the The available volume for cargo or luggage. For automobiles, this is usually the trunk volume.
+In VSS Chassis is the All data concerning steering, suspension, wheels, and brakes.
+In VSS Vehicle.Chassis is the All data concerning steering, suspension, wheels, and brakes.
+In VSS Connectivity is the Connectivity data.
+In VSS Vehicle.Connectivity is the Connectivity data.
+In VSS CurbWeight is the Vehicle curb weight, including all liquids and full tank of fuel, but no cargo or passengers.
+In VSS Vehicle.CurbWeight is the Vehicle curb weight, including all liquids and full tank of fuel, but no cargo or passengers.
+In VSS CurrentLocation is the The current latitude and longitude of the vehicle.
+In VSS Vehicle.CurrentLocation is the The current latitude and longitude of the vehicle.
+In VSS CurrentOverallWeight is the Current overall Vehicle weight. Including passengers, cargo and other load inside the car.
+In VSS Vehicle.CurrentOverallWeight is the Current overall Vehicle weight. Including passengers, cargo and other load inside the car.
+In VSS Driver is the Driver data.
+In VSS Vehicle.Driver is the Driver data.
+In VSS EmissionsCO2 is the The CO2 emissions.
+In VSS Vehicle.EmissionsCO2 is the The CO2 emissions.
+In VSS Exterior is the Information about exterior measured by vehicle.
+In VSS Vehicle.Exterior is the Information about exterior measured by vehicle.
+In VSS GrossWeight is the Curb weight of vehicle, including all liquids and full tank of fuel and full load of cargo and passengers.
+In VSS Vehicle.GrossWeight is the Curb weight of vehicle, including all liquids and full tank of fuel and full load of cargo and passengers.
+In VSS Height is the Overall vehicle height.
+In VSS Vehicle.Height is the Overall vehicle height.
+In VSS IsBrokenDown is the Vehicle breakdown or any similar event causing vehicle to stop on the road, that might pose a risk to other road users. True = Vehicle broken down on the road, due to e.g. engine problems, flat tire, out of gas, brake problems. False = Vehicle not broken down.
+In VSS Vehicle.IsBrokenDown is the Vehicle breakdown or any similar event causing vehicle to stop on the road, that might pose a risk to other road users. True = Vehicle broken down on the road, due to e.g. engine problems, flat tire, out of gas, brake problems. False = Vehicle not broken down.
+In VSS IsMoving is the Indicates whether the vehicle is stationary or moving.
+In VSS Vehicle.IsMoving is the Indicates whether the vehicle is stationary or moving.
+In VSS Length is the Overall vehicle length.
+In VSS Vehicle.Length is the Overall vehicle length.
+In VSS LowVoltageSystemState is the State of the supply voltage of the control units (usually 12V).
+In VSS Vehicle.LowVoltageSystemState is the State of the supply voltage of the control units (usually 12V).
+In VSS MaxTowBallWeight is the Maximum vertical weight on the tow ball of a trailer.
+In VSS Vehicle.MaxTowBallWeight is the Maximum vertical weight on the tow ball of a trailer.
+In VSS MaxTowWeight is the Maximum weight of trailer.
+In VSS Vehicle.MaxTowWeight is the Maximum weight of trailer.
+In VSS OBD is the OBD data.
+In VSS Vehicle.OBD is the OBD data.
+In VSS Powertrain is the Powertrain data for battery management, etc.
+In VSS Vehicle.Powertrain is the Powertrain data for battery management, etc.
+In VSS RoofLoad is the The permitted total weight of cargo and installations (e.g. a roof rack) on top of the vehicle.
+In VSS Vehicle.RoofLoad is the The permitted total weight of cargo and installations (e.g. a roof rack) on top of the vehicle.
+In VSS Service is the Service data.
+In VSS Vehicle.Service is the Service data.
+In VSS Speed is the Vehicle speed.
+In VSS Vehicle.Speed is the Vehicle speed.
+In VSS Trailer is the Trailer signals.
+In VSS Vehicle.Trailer is the Trailer signals.
+In VSS TravelledDistance is the Odometer reading, total distance travelled during the lifetime of the vehicle.
+In VSS Vehicle.TravelledDistance is the Odometer reading, total distance travelled during the lifetime of the vehicle.
+In VSS TripMeterReading is the Current trip meter reading.
+In VSS Vehicle.TripMeterReading is the Current trip meter reading.
+In VSS VehicleIdentification is the Attributes that identify a vehicle.
+In VSS Vehicle.VehicleIdentification is the Attributes that identify a vehicle.
+In VSS VersionVSS is the Supported Version of VSS.
+In VSS Vehicle.VersionVSS is the Supported Version of VSS.
+In VSS Width is the Overall vehicle width.
+In VSS Vehicle.Width is the Overall vehicle width.
+In VSS ADAS is the All Advanced Driver Assist Systems data.
+In VSS Vehicle.ADAS is the All Advanced Driver Assist Systems data.
+In VSS Acceleration is the Spatial acceleration. Axis definitions according to ISO 8855.
+In VSS Vehicle.Acceleration is the Spatial acceleration. Axis definitions according to ISO 8855.
+In VSS AngularVelocity is the Spatial rotation. Axis definitions according to ISO 8855.
+In VSS Vehicle.AngularVelocity is the Spatial rotation. Axis definitions according to ISO 8855.
+In VSS AverageSpeed is the Average speed for the current trip.
+In VSS Vehicle.AverageSpeed is the Average speed for the current trip.
+In VSS Body is the All body components.
+In VSS Vehicle.Body is the All body components.
+In VSS Cabin is the All in-cabin components, including doors.
+In VSS Vehicle.Cabin is the All in-cabin components, including doors.
+In VSS CargoVolume is the The available volume for cargo or luggage. For automobiles, this is usually the trunk volume.
+In VSS Vehicle.CargoVolume is the The available volume for cargo or luggage. For automobiles, this is usually the trunk volume.
+In VSS Chassis is the All data concerning steering, suspension, wheels, and brakes.
+In VSS Vehicle.Chassis is the All data concerning steering, suspension, wheels, and brakes.
+In VSS Connectivity is the Connectivity data.
+In VSS Vehicle.Connectivity is the Connectivity data.
+In VSS CurbWeight is the Vehicle curb weight, including all liquids and full tank of fuel, but no cargo or passengers.
+In VSS Vehicle.CurbWeight is the Vehicle curb weight, including all liquids and full tank of fuel, but no cargo or passengers.
+In VSS CurrentLocation is the The current latitude and longitude of the vehicle.
+In VSS Vehicle.CurrentLocation is the The current latitude and longitude of the vehicle.
+In VSS CurrentOverallWeight is the Current overall Vehicle weight. Including passengers, cargo and other load inside the car.
+In VSS Vehicle.CurrentOverallWeight is the Current overall Vehicle weight. Including passengers, cargo and other load inside the car.
+In VSS Driver is the Driver data.
+In VSS Vehicle.Driver is the Driver data.
+In VSS EmissionsCO2 is the The CO2 emissions.
+In VSS Vehicle.EmissionsCO2 is the The CO2 emissions.
+In VSS Exterior is the Information about exterior measured by vehicle.
+In VSS Vehicle.Exterior is the Information about exterior measured by vehicle.
+In VSS GrossWeight is the Curb weight of vehicle, including all liquids and full tank of fuel and full load of cargo and passengers.
+In VSS Vehicle.GrossWeight is the Curb weight of vehicle, including all liquids and full tank of fuel and full load of cargo and passengers.
+In VSS Height is the Overall vehicle height.
+In VSS Vehicle.Height is the Overall vehicle height.
+In VSS IsBrokenDown is the Vehicle breakdown or any similar event causing vehicle to stop on the road, that might pose a risk to other road users. True = Vehicle broken down on the road, due to e.g. engine problems, flat tire, out of gas, brake problems. False = Vehicle not broken down.
+In VSS Vehicle.IsBrokenDown is the Vehicle breakdown or any similar event causing vehicle to stop on the road, that might pose a risk to other road users. True = Vehicle broken down on the road, due to e.g. engine problems, flat tire, out of gas, brake problems. False = Vehicle not broken down.
+In VSS IsMoving is the Indicates whether the vehicle is stationary or moving.
+In VSS Vehicle.IsMoving is the Indicates whether the vehicle is stationary or moving.
+In VSS Length is the Overall vehicle length.
+In VSS Vehicle.Length is the Overall vehicle length.
+In VSS LowVoltageSystemState is the State of the supply voltage of the control units (usually 12V).
+In VSS Vehicle.LowVoltageSystemState is the State of the supply voltage of the control units (usually 12V).
+In VSS MaxTowBallWeight is the Maximum vertical weight on the tow ball of a trailer.
+In VSS Vehicle.MaxTowBallWeight is the Maximum vertical weight on the tow ball of a trailer.
+In VSS MaxTowWeight is the Maximum weight of trailer.
+In VSS Vehicle.MaxTowWeight is the Maximum weight of trailer.
+In VSS OBD is the OBD data.
+In VSS Vehicle.OBD is the OBD data.
+In VSS Powertrain is the Powertrain data for battery management, etc.
+In VSS Vehicle.Powertrain is the Powertrain data for battery management, etc.
+In VSS RoofLoad is the The permitted total weight of cargo and installations (e.g. a roof rack) on top of the vehicle.
+In VSS Vehicle.RoofLoad is the The permitted total weight of cargo and installations (e.g. a roof rack) on top of the vehicle.
+In VSS Service is the Service data.
+In VSS Vehicle.Service is the Service data.
+In VSS Speed is the Vehicle speed.
+In VSS Vehicle.Speed is the Vehicle speed.
+In VSS Trailer is the Trailer signals.
+In VSS Vehicle.Trailer is the Trailer signals.
+In VSS TravelledDistance is the Odometer reading, total distance travelled during the lifetime of the vehicle.
+In VSS Vehicle.TravelledDistance is the Odometer reading, total distance travelled during the lifetime of the vehicle.
+In VSS TripMeterReading is the Current trip meter reading.
+In VSS Vehicle.TripMeterReading is the Current trip meter reading.
+In VSS VehicleIdentification is the Attributes that identify a vehicle.
+In VSS Vehicle.VehicleIdentification is the Attributes that identify a vehicle.
+In VSS VersionVSS is the Supported Version of VSS.
+In VSS Vehicle.VersionVSS is the Supported Version of VSS.
+In VSS Width is the Overall vehicle width.
+In VSS Vehicle.Width is the Overall vehicle width.
+In VSS ADAS is the All Advanced Driver Assist Systems data.
+In VSS Vehicle.ADAS is the All Advanced Driver Assist Systems data.
+In VSS Acceleration is the Spatial acceleration. Axis definitions according to ISO 8855.
+In VSS Vehicle.Acceleration is the Spatial acceleration. Axis definitions according to ISO 8855.
+In VSS AngularVelocity is the Spatial rotation. Axis definitions according to ISO 8855.
+In VSS Vehicle.AngularVelocity is the Spatial rotation. Axis definitions according to ISO 8855.
+In VSS AverageSpeed is the Average speed for the current trip.
+In VSS Vehicle.AverageSpeed is the Average speed for the current trip.
+In VSS Body is the All body components.
+In VSS Vehicle.Body is the All body components.
+In VSS Cabin is the All in-cabin components, including doors.
+In VSS Vehicle.Cabin is the All in-cabin components, including doors.
+In VSS CargoVolume is the The available volume for cargo or luggage. For automobiles, this is usually the trunk volume.
+In VSS Vehicle.CargoVolume is the The available volume for cargo or luggage. For automobiles, this is usually the trunk volume.
+In VSS Chassis is the All data concerning steering, suspension, wheels, and brakes.
+In VSS Vehicle.Chassis is the All data concerning steering, suspension, wheels, and brakes.
+In VSS Connectivity is the Connectivity data.
+In VSS Vehicle.Connectivity is the Connectivity data.
+In VSS CurbWeight is the Vehicle curb weight, including all liquids and full tank of fuel, but no cargo or passengers.
+In VSS Vehicle.CurbWeight is the Vehicle curb weight, including all liquids and full tank of fuel, but no cargo or passengers.
+In VSS CurrentLocation is the The current latitude and longitude of the vehicle.
+In VSS Vehicle.CurrentLocation is the The current latitude and longitude of the vehicle.
+In VSS CurrentOverallWeight is the Current overall Vehicle weight. Including passengers, cargo and other load inside the car.
+In VSS Vehicle.CurrentOverallWeight is the Current overall Vehicle weight. Including passengers, cargo and other load inside the car.
+In VSS Driver is the Driver data.
+In VSS Vehicle.Driver is the Driver data.
+In VSS EmissionsCO2 is the The CO2 emissions.
+In VSS Vehicle.EmissionsCO2 is the The CO2 emissions.
+In VSS Exterior is the Information about exterior measured by vehicle.
+In VSS Vehicle.Exterior is the Information about exterior measured by vehicle.
+In VSS GrossWeight is the Curb weight of vehicle, including all liquids and full tank of fuel and full load of cargo and passengers.
+In VSS Vehicle.GrossWeight is the Curb weight of vehicle, including all liquids and full tank of fuel and full load of cargo and passengers.
+In VSS Height is the Overall vehicle height.
+In VSS Vehicle.Height is the Overall vehicle height.
+In VSS IsBrokenDown is the Vehicle breakdown or any similar event causing vehicle to stop on the road, that might pose a risk to other road users. True = Vehicle broken down on the road, due to e.g. engine problems, flat tire, out of gas, brake problems. False = Vehicle not broken down.
+In VSS Vehicle.IsBrokenDown is the Vehicle breakdown or any similar event causing vehicle to stop on the road, that might pose a risk to other road users. True = Vehicle broken down on the road, due to e.g. engine problems, flat tire, out of gas, brake problems. False = Vehicle not broken down.
+In VSS IsMoving is the Indicates whether the vehicle is stationary or moving.
+In VSS Vehicle.IsMoving is the Indicates whether the vehicle is stationary or moving.
+In VSS Length is the Overall vehicle length.
+In VSS Vehicle.Length is the Overall vehicle length.
+In VSS LowVoltageSystemState is the State of the supply voltage of the control units (usually 12V).
+In VSS Vehicle.LowVoltageSystemState is the State of the supply voltage of the control units (usually 12V).
+In VSS MaxTowBallWeight is the Maximum vertical weight on the tow ball of a trailer.
+In VSS Vehicle.MaxTowBallWeight is the Maximum vertical weight on the tow ball of a trailer.
+In VSS MaxTowWeight is the Maximum weight of trailer.
+In VSS Vehicle.MaxTowWeight is the Maximum weight of trailer.
+In VSS OBD is the OBD data.
+In VSS Vehicle.OBD is the OBD data.
+In VSS Powertrain is the Powertrain data for battery management, etc.
+In VSS Vehicle.Powertrain is the Powertrain data for battery management, etc.
+In VSS RoofLoad is the The permitted total weight of cargo and installations (e.g. a roof rack) on top of the vehicle.
+In VSS Vehicle.RoofLoad is the The permitted total weight of cargo and installations (e.g. a roof rack) on top of the vehicle.
+In VSS Service is the Service data.
+In VSS Vehicle.Service is the Service data.
+In VSS Speed is the Vehicle speed.
+In VSS Vehicle.Speed is the Vehicle speed.
+In VSS Trailer is the Trailer signals.
+In VSS Vehicle.Trailer is the Trailer signals.
+In VSS TravelledDistance is the Odometer reading, total distance travelled during the lifetime of the vehicle.
+In VSS Vehicle.TravelledDistance is the Odometer reading, total distance travelled during the lifetime of the vehicle.
+In VSS TripMeterReading is the Current trip meter reading.
+In VSS Vehicle.TripMeterReading is the Current trip meter reading.
+In VSS VehicleIdentification is the Attributes that identify a vehicle.
+In VSS Vehicle.VehicleIdentification is the Attributes that identify a vehicle.
+In VSS VersionVSS is the Supported Version of VSS.
+In VSS Vehicle.VersionVSS is the Supported Version of VSS.
+In VSS Width is the Overall vehicle width.
+In VSS Vehicle.Width is the Overall vehicle width.
+In VSS ADAS is the All Advanced Driver Assist Systems data.
+In VSS Vehicle.ADAS is the All Advanced Driver Assist Systems data.
+In VSS Acceleration is the Spatial acceleration. Axis definitions according to ISO 8855.
+In VSS Vehicle.Acceleration is the Spatial acceleration. Axis definitions according to ISO 8855.
+In VSS AngularVelocity is the Spatial rotation. Axis definitions according to ISO 8855.
+In VSS Vehicle.AngularVelocity is the Spatial rotation. Axis definitions according to ISO 8855.
+In VSS AverageSpeed is the Average speed for the current trip.
+In VSS Vehicle.AverageSpeed is the Average speed for the current trip.
+In VSS Body is the All body components.
+In VSS Vehicle.Body is the All body components.
+In VSS Cabin is the All in-cabin components, including doors.
+In VSS Vehicle.Cabin is the All in-cabin components, including doors.
+In VSS CargoVolume is the The available volume for cargo or luggage. For automobiles, this is usually the trunk volume.
+In VSS Vehicle.CargoVolume is the The available volume for cargo or luggage. For automobiles, this is usually the trunk volume.
+In VSS Chassis is the All data concerning steering, suspension, wheels, and brakes.
+In VSS Vehicle.Chassis is the All data concerning steering, suspension, wheels, and brakes.
+In VSS Connectivity is the Connectivity data.
+In VSS Vehicle.Connectivity is the Connectivity data.
+In VSS CurbWeight is the Vehicle curb weight, including all liquids and full tank of fuel, but no cargo or passengers.
+In VSS Vehicle.CurbWeight is the Vehicle curb weight, including all liquids and full tank of fuel, but no cargo or passengers.
+In VSS CurrentLocation is the The current latitude and longitude of the vehicle.
+In VSS Vehicle.CurrentLocation is the The current latitude and longitude of the vehicle.
+In VSS CurrentOverallWeight is the Current overall Vehicle weight. Including passengers, cargo and other load inside the car.
+In VSS Vehicle.CurrentOverallWeight is the Current overall Vehicle weight. Including passengers, cargo and other load inside the car.
+In VSS Driver is the Driver data.
+In VSS Vehicle.Driver is the Driver data.
+In VSS EmissionsCO2 is the The CO2 emissions.
+In VSS Vehicle.EmissionsCO2 is the The CO2 emissions.
+In VSS Exterior is the Information about exterior measured by vehicle.
+In VSS Vehicle.Exterior is the Information about exterior measured by vehicle.
+In VSS GrossWeight is the Curb weight of vehicle, including all liquids and full tank of fuel and full load of cargo and passengers.
+In VSS Vehicle.GrossWeight is the Curb weight of vehicle, including all liquids and full tank of fuel and full load of cargo and passengers.
+In VSS Height is the Overall vehicle height.
+In VSS Vehicle.Height is the Overall vehicle height.
+In VSS IsBrokenDown is the Vehicle breakdown or any similar event causing vehicle to stop on the road, that might pose a risk to other road users. True = Vehicle broken down on the road, due to e.g. engine problems, flat tire, out of gas, brake problems. False = Vehicle not broken down.
+In VSS Vehicle.IsBrokenDown is the Vehicle breakdown or any similar event causing vehicle to stop on the road, that might pose a risk to other road users. True = Vehicle broken down on the road, due to e.g. engine problems, flat tire, out of gas, brake problems. False = Vehicle not broken down.
+In VSS IsMoving is the Indicates whether the vehicle is stationary or moving.
+In VSS Vehicle.IsMoving is the Indicates whether the vehicle is stationary or moving.
+In VSS Length is the Overall vehicle length.
+In VSS Vehicle.Length is the Overall vehicle length.
+In VSS LowVoltageSystemState is the State of the supply voltage of the control units (usually 12V).
+In VSS Vehicle.LowVoltageSystemState is the State of the supply voltage of the control units (usually 12V).
+In VSS MaxTowBallWeight is the Maximum vertical weight on the tow ball of a trailer.
+In VSS Vehicle.MaxTowBallWeight is the Maximum vertical weight on the tow ball of a trailer.
+In VSS MaxTowWeight is the Maximum weight of trailer.
+In VSS Vehicle.MaxTowWeight is the Maximum weight of trailer.
+In VSS OBD is the OBD data.
+In VSS Vehicle.OBD is the OBD data.
+In VSS Powertrain is the Powertrain data for battery management, etc.
+In VSS Vehicle.Powertrain is the Powertrain data for battery management, etc.
+In VSS RoofLoad is the The permitted total weight of cargo and installations (e.g. a roof rack) on top of the vehicle.
+In VSS Vehicle.RoofLoad is the The permitted total weight of cargo and installations (e.g. a roof rack) on top of the vehicle.
+In VSS Service is the Service data.
+In VSS Vehicle.Service is the Service data.
+In VSS Speed is the Vehicle speed.
+In VSS Vehicle.Speed is the Vehicle speed.
+In VSS Trailer is the Trailer signals.
+In VSS Vehicle.Trailer is the Trailer signals.
+In VSS TravelledDistance is the Odometer reading, total distance travelled during the lifetime of the vehicle.
+In VSS Vehicle.TravelledDistance is the Odometer reading, total distance travelled during the lifetime of the vehicle.
+In VSS TripMeterReading is the Current trip meter reading.
+In VSS Vehicle.TripMeterReading is the Current trip meter reading.
+In VSS VehicleIdentification is the Attributes that identify a vehicle.
+In VSS Vehicle.VehicleIdentification is the Attributes that identify a vehicle.
+In VSS VersionVSS is the Supported Version of VSS.
+In VSS Vehicle.VersionVSS is the Supported Version of VSS.
+In VSS Width is the Overall vehicle width.
+In VSS Vehicle.Width is the Overall vehicle width.
+In VSS ADAS is the All Advanced Driver Assist Systems data.
+In VSS Vehicle.ADAS is the All Advanced Driver Assist Systems data.
+In VSS Acceleration is the Spatial acceleration. Axis definitions according to ISO 8855.
+In VSS Vehicle.Acceleration is the Spatial acceleration. Axis definitions according to ISO 8855.
+In VSS AngularVelocity is the Spatial rotation. Axis definitions according to ISO 8855.
+In VSS Vehicle.AngularVelocity is the Spatial rotation. Axis definitions according to ISO 8855.
+In VSS AverageSpeed is the Average speed for the current trip.
+In VSS Vehicle.AverageSpeed is the Average speed for the current trip.
+In VSS Body is the All body components.
+In VSS Vehicle.Body is the All body components.
+In VSS Cabin is the All in-cabin components, including doors.
+In VSS Vehicle.Cabin is the All in-cabin components, including doors.
+In VSS CargoVolume is the The available volume for cargo or luggage. For automobiles, this is usually the trunk volume.
+In VSS Vehicle.CargoVolume is the The available volume for cargo or luggage. For automobiles, this is usually the trunk volume.
+In VSS Chassis is the All data concerning steering, suspension, wheels, and brakes.
+In VSS Vehicle.Chassis is the All data concerning steering, suspension, wheels, and brakes.
+In VSS Connectivity is the Connectivity data.
+In VSS Vehicle.Connectivity is the Connectivity data.
+In VSS CurbWeight is the Vehicle curb weight, including all liquids and full tank of fuel, but no cargo or passengers.
+In VSS Vehicle.CurbWeight is the Vehicle curb weight, including all liquids and full tank of fuel, but no cargo or passengers.
+In VSS CurrentLocation is the The current latitude and longitude of the vehicle.
+In VSS Vehicle.CurrentLocation is the The current latitude and longitude of the vehicle.
+In VSS CurrentOverallWeight is the Current overall Vehicle weight. Including passengers, cargo and other load inside the car.
+In VSS Vehicle.CurrentOverallWeight is the Current overall Vehicle weight. Including passengers, cargo and other load inside the car.
+In VSS Driver is the Driver data.
+In VSS Vehicle.Driver is the Driver data.
+In VSS EmissionsCO2 is the The CO2 emissions.
+In VSS Vehicle.EmissionsCO2 is the The CO2 emissions.
+In VSS Exterior is the Information about exterior measured by vehicle.
+In VSS Vehicle.Exterior is the Information about exterior measured by vehicle.
+In VSS GrossWeight is the Curb weight of vehicle, including all liquids and full tank of fuel and full load of cargo and passengers.
+In VSS Vehicle.GrossWeight is the Curb weight of vehicle, including all liquids and full tank of fuel and full load of cargo and passengers.
+In VSS Height is the Overall vehicle height.
+In VSS Vehicle.Height is the Overall vehicle height.
+In VSS IsBrokenDown is the Vehicle breakdown or any similar event causing vehicle to stop on the road, that might pose a risk to other road users. True = Vehicle broken down on the road, due to e.g. engine problems, flat tire, out of gas, brake problems. False = Vehicle not broken down.
+In VSS Vehicle.IsBrokenDown is the Vehicle breakdown or any similar event causing vehicle to stop on the road, that might pose a risk to other road users. True = Vehicle broken down on the road, due to e.g. engine problems, flat tire, out of gas, brake problems. False = Vehicle not broken down.
+In VSS IsMoving is the Indicates whether the vehicle is stationary or moving.
+In VSS Vehicle.IsMoving is the Indicates whether the vehicle is stationary or moving.
+In VSS Length is the Overall vehicle length.
+In VSS Vehicle.Length is the Overall vehicle length.
+In VSS LowVoltageSystemState is the State of the supply voltage of the control units (usually 12V).
+In VSS Vehicle.LowVoltageSystemState is the State of the supply voltage of the control units (usually 12V).
+In VSS MaxTowBallWeight is the Maximum vertical weight on the tow ball of a trailer.
+In VSS Vehicle.MaxTowBallWeight is the Maximum vertical weight on the tow ball of a trailer.
+In VSS MaxTowWeight is the Maximum weight of trailer.
+In VSS Vehicle.MaxTowWeight is the Maximum weight of trailer.
+In VSS OBD is the OBD data.
+In VSS Vehicle.OBD is the OBD data.
+In VSS Powertrain is the Powertrain data for battery management, etc.
+In VSS Vehicle.Powertrain is the Powertrain data for battery management, etc.
+In VSS RoofLoad is the The permitted total weight of cargo and installations (e.g. a roof rack) on top of the vehicle.
+In VSS Vehicle.RoofLoad is the The permitted total weight of cargo and installations (e.g. a roof rack) on top of the vehicle.
+In VSS Service is the Service data.
+In VSS Vehicle.Service is the Service data.
+In VSS Speed is the Vehicle speed.
+In VSS Vehicle.Speed is the Vehicle speed.
+In VSS Trailer is the Trailer signals.
+In VSS Vehicle.Trailer is the Trailer signals.
+In VSS TravelledDistance is the Odometer reading, total distance travelled during the lifetime of the vehicle.
+In VSS Vehicle.TravelledDistance is the Odometer reading, total distance travelled during the lifetime of the vehicle.
+In VSS TripMeterReading is the Current trip meter reading.
+In VSS Vehicle.TripMeterReading is the Current trip meter reading.
+In VSS VehicleIdentification is the Attributes that identify a vehicle.
+In VSS Vehicle.VehicleIdentification is the Attributes that identify a vehicle.
+In VSS VersionVSS is the Supported Version of VSS.
+In VSS Vehicle.VersionVSS is the Supported Version of VSS.
+In VSS Width is the Overall vehicle width.
+In VSS Vehicle.Width is the Overall vehicle width.
+In VSS ADAS is the All Advanced Driver Assist Systems data.
+In VSS Vehicle.ADAS is the All Advanced Driver Assist Systems data.
+In VSS Acceleration is the Spatial acceleration. Axis definitions according to ISO 8855.
+In VSS Vehicle.Acceleration is the Spatial acceleration. Axis definitions according to ISO 8855.
+In VSS AngularVelocity is the Spatial rotation. Axis definitions according to ISO 8855.
+In VSS Vehicle.AngularVelocity is the Spatial rotation. Axis definitions according to ISO 8855.
+In VSS AverageSpeed is the Average speed for the current trip.
+In VSS Vehicle.AverageSpeed is the Average speed for the current trip.
+In VSS Body is the All body components.
+In VSS Vehicle.Body is the All body components.
+In VSS Cabin is the All in-cabin components, including doors.
+In VSS Vehicle.Cabin is the All in-cabin components, including doors.
+In VSS CargoVolume is the The available volume for cargo or luggage. For automobiles, this is usually the trunk volume.
+In VSS Vehicle.CargoVolume is the The available volume for cargo or luggage. For automobiles, this is usually the trunk volume.
+In VSS Chassis is the All data concerning steering, suspension, wheels, and brakes.
+In VSS Vehicle.Chassis is the All data concerning steering, suspension, wheels, and brakes.
+In VSS Connectivity is the Connectivity data.
+In VSS Vehicle.Connectivity is the Connectivity data.
+In VSS CurbWeight is the Vehicle curb weight, including all liquids and full tank of fuel, but no cargo or passengers.
+In VSS Vehicle.CurbWeight is the Vehicle curb weight, including all liquids and full tank of fuel, but no cargo or passengers.
+In VSS CurrentLocation is the The current latitude and longitude of the vehicle.
+In VSS Vehicle.CurrentLocation is the The current latitude and longitude of the vehicle.
+In VSS CurrentOverallWeight is the Current overall Vehicle weight. Including passengers, cargo and other load inside the car.
+In VSS Vehicle.CurrentOverallWeight is the Current overall Vehicle weight. Including passengers, cargo and other load inside the car.
+In VSS Driver is the Driver data.
+In VSS Vehicle.Driver is the Driver data.
+In VSS EmissionsCO2 is the The CO2 emissions.
+In VSS Vehicle.EmissionsCO2 is the The CO2 emissions.
+In VSS Exterior is the Information about exterior measured by vehicle.
+In VSS Vehicle.Exterior is the Information about exterior measured by vehicle.
+In VSS GrossWeight is the Curb weight of vehicle, including all liquids and full tank of fuel and full load of cargo and passengers.
+In VSS Vehicle.GrossWeight is the Curb weight of vehicle, including all liquids and full tank of fuel and full load of cargo and passengers.
+In VSS Height is the Overall vehicle height.
+In VSS Vehicle.Height is the Overall vehicle height.
+In VSS IsBrokenDown is the Vehicle breakdown or any similar event causing vehicle to stop on the road, that might pose a risk to other road users. True = Vehicle broken down on the road, due to e.g. engine problems, flat tire, out of gas, brake problems. False = Vehicle not broken down.
+In VSS Vehicle.IsBrokenDown is the Vehicle breakdown or any similar event causing vehicle to stop on the road, that might pose a risk to other road users. True = Vehicle broken down on the road, due to e.g. engine problems, flat tire, out of gas, brake problems. False = Vehicle not broken down.
+In VSS IsMoving is the Indicates whether the vehicle is stationary or moving.
+In VSS Vehicle.IsMoving is the Indicates whether the vehicle is stationary or moving.
+In VSS Length is the Overall vehicle length.
+In VSS Vehicle.Length is the Overall vehicle length.
+In VSS LowVoltageSystemState is the State of the supply voltage of the control units (usually 12V).
+In VSS Vehicle.LowVoltageSystemState is the State of the supply voltage of the control units (usually 12V).
+In VSS MaxTowBallWeight is the Maximum vertical weight on the tow ball of a trailer.
+In VSS Vehicle.MaxTowBallWeight is the Maximum vertical weight on the tow ball of a trailer.
+In VSS MaxTowWeight is the Maximum weight of trailer.
+In VSS Vehicle.MaxTowWeight is the Maximum weight of trailer.
+In VSS OBD is the OBD data.
+In VSS Vehicle.OBD is the OBD data.
+In VSS Powertrain is the Powertrain data for battery management, etc.
+In VSS Vehicle.Powertrain is the Powertrain data for battery management, etc.
+In VSS RoofLoad is the The permitted total weight of cargo and installations (e.g. a roof rack) on top of the vehicle.
+In VSS Vehicle.RoofLoad is the The permitted total weight of cargo and installations (e.g. a roof rack) on top of the vehicle.
+In VSS Service is the Service data.
+In VSS Vehicle.Service is the Service data.
+In VSS Speed is the Vehicle speed.
+In VSS Vehicle.Speed is the Vehicle speed.
+In VSS Trailer is the Trailer signals.
+In VSS Vehicle.Trailer is the Trailer signals.
+In VSS TravelledDistance is the Odometer reading, total distance travelled during the lifetime of the vehicle.
+In VSS Vehicle.TravelledDistance is the Odometer reading, total distance travelled during the lifetime of the vehicle.
+In VSS TripMeterReading is the Current trip meter reading.
+In VSS Vehicle.TripMeterReading is the Current trip meter reading.
+In VSS VehicleIdentification is the Attributes that identify a vehicle.
+In VSS Vehicle.VehicleIdentification is the Attributes that identify a vehicle.
+In VSS VersionVSS is the Supported Version of VSS.
+In VSS Vehicle.VersionVSS is the Supported Version of VSS.
+In VSS Width is the Overall vehicle width.
+In VSS Vehicle.Width is the Overall vehicle width.
+In VSS ADAS is the All Advanced Driver Assist Systems data.
+In VSS Vehicle.ADAS is the All Advanced Driver Assist Systems data.
+In VSS Acceleration is the Spatial acceleration. Axis definitions according to ISO 8855.
+In VSS Vehicle.Acceleration is the Spatial acceleration. Axis definitions according to ISO 8855.
+In VSS AngularVelocity is the Spatial rotation. Axis definitions according to ISO 8855.
+In VSS Vehicle.AngularVelocity is the Spatial rotation. Axis definitions according to ISO 8855.
+In VSS AverageSpeed is the Average speed for the current trip.
+In VSS Vehicle.AverageSpeed is the Average speed for the current trip.
+In VSS Body is the All body components.
+In VSS Vehicle.Body is the All body components.
+In VSS Cabin is the All in-cabin components, including doors.
+In VSS Vehicle.Cabin is the All in-cabin components, including doors.
+In VSS CargoVolume is the The available volume for cargo or luggage. For automobiles, this is usually the trunk volume.
+In VSS Vehicle.CargoVolume is the The available volume for cargo or luggage. For automobiles, this is usually the trunk volume.
+In VSS Chassis is the All data concerning steering, suspension, wheels, and brakes.
+In VSS Vehicle.Chassis is the All data concerning steering, suspension, wheels, and brakes.
+In VSS Connectivity is the Connectivity data.
+In VSS Vehicle.Connectivity is the Connectivity data.
+In VSS CurbWeight is the Vehicle curb weight, including all liquids and full tank of fuel, but no cargo or passengers.
+In VSS Vehicle.CurbWeight is the Vehicle curb weight, including all liquids and full tank of fuel, but no cargo or passengers.
+In VSS CurrentLocation is the The current latitude and longitude of the vehicle.
+In VSS Vehicle.CurrentLocation is the The current latitude and longitude of the vehicle.
+In VSS CurrentOverallWeight is the Current overall Vehicle weight. Including passengers, cargo and other load inside the car.
+In VSS Vehicle.CurrentOverallWeight is the Current overall Vehicle weight. Including passengers, cargo and other load inside the car.
+In VSS Driver is the Driver data.
+In VSS Vehicle.Driver is the Driver data.
+In VSS EmissionsCO2 is the The CO2 emissions.
+In VSS Vehicle.EmissionsCO2 is the The CO2 emissions.
+In VSS Exterior is the Information about exterior measured by vehicle.
+In VSS Vehicle.Exterior is the Information about exterior measured by vehicle.
+In VSS GrossWeight is the Curb weight of vehicle, including all liquids and full tank of fuel and full load of cargo and passengers.
+In VSS Vehicle.GrossWeight is the Curb weight of vehicle, including all liquids and full tank of fuel and full load of cargo and passengers.
+In VSS Height is the Overall vehicle height.
+In VSS Vehicle.Height is the Overall vehicle height.
+In VSS IsBrokenDown is the Vehicle breakdown or any similar event causing vehicle to stop on the road, that might pose a risk to other road users. True = Vehicle broken down on the road, due to e.g. engine problems, flat tire, out of gas, brake problems. False = Vehicle not broken down.
+In VSS Vehicle.IsBrokenDown is the Vehicle breakdown or any similar event causing vehicle to stop on the road, that might pose a risk to other road users. True = Vehicle broken down on the road, due to e.g. engine problems, flat tire, out of gas, brake problems. False = Vehicle not broken down.
+In VSS IsMoving is the Indicates whether the vehicle is stationary or moving.
+In VSS Vehicle.IsMoving is the Indicates whether the vehicle is stationary or moving.
+In VSS Length is the Overall vehicle length.
+In VSS Vehicle.Length is the Overall vehicle length.
+In VSS LowVoltageSystemState is the State of the supply voltage of the control units (usually 12V).
+In VSS Vehicle.LowVoltageSystemState is the State of the supply voltage of the control units (usually 12V).
+In VSS MaxTowBallWeight is the Maximum vertical weight on the tow ball of a trailer.
+In VSS Vehicle.MaxTowBallWeight is the Maximum vertical weight on the tow ball of a trailer.
+In VSS MaxTowWeight is the Maximum weight of trailer.
+In VSS Vehicle.MaxTowWeight is the Maximum weight of trailer.
+In VSS OBD is the OBD data.
+In VSS Vehicle.OBD is the OBD data.
+In VSS Powertrain is the Powertrain data for battery management, etc.
+In VSS Vehicle.Powertrain is the Powertrain data for battery management, etc.
+In VSS RoofLoad is the The permitted total weight of cargo and installations (e.g. a roof rack) on top of the vehicle.
+In VSS Vehicle.RoofLoad is the The permitted total weight of cargo and installations (e.g. a roof rack) on top of the vehicle.
+In VSS Service is the Service data.
+In VSS Vehicle.Service is the Service data.
+In VSS Speed is the Vehicle speed.
+In VSS Vehicle.Speed is the Vehicle speed.
+In VSS Trailer is the Trailer signals.
+In VSS Vehicle.Trailer is the Trailer signals.
+In VSS TravelledDistance is the Odometer reading, total distance travelled during the lifetime of the vehicle.
+In VSS Vehicle.TravelledDistance is the Odometer reading, total distance travelled during the lifetime of the vehicle.
+In VSS TripMeterReading is the Current trip meter reading.
+In VSS Vehicle.TripMeterReading is the Current trip meter reading.
+In VSS VehicleIdentification is the Attributes that identify a vehicle.
+In VSS Vehicle.VehicleIdentification is the Attributes that identify a vehicle.
+In VSS VersionVSS is the Supported Version of VSS.
+In VSS Vehicle.VersionVSS is the Supported Version of VSS.
+In VSS Width is the Overall vehicle width.
+In VSS Vehicle.Width is the Overall vehicle width.
+In VSS ADAS is the All Advanced Driver Assist Systems data.
+In VSS Vehicle.ADAS is the All Advanced Driver Assist Systems data.
+In VSS Acceleration is the Spatial acceleration. Axis definitions according to ISO 8855.
+In VSS Vehicle.Acceleration is the Spatial acceleration. Axis definitions according to ISO 8855.
+In VSS AngularVelocity is the Spatial rotation. Axis definitions according to ISO 8855.
+In VSS Vehicle.AngularVelocity is the Spatial rotation. Axis definitions according to ISO 8855.
+In VSS AverageSpeed is the Average speed for the current trip.
+In VSS Vehicle.AverageSpeed is the Average speed for the current trip.
+In VSS Body is the All body components.
+In VSS Vehicle.Body is the All body components.
+In VSS Cabin is the All in-cabin components, including doors.
+In VSS Vehicle.Cabin is the All in-cabin components, including doors.
+In VSS CargoVolume is the The available volume for cargo or luggage. For automobiles, this is usually the trunk volume.
+In VSS Vehicle.CargoVolume is the The available volume for cargo or luggage. For automobiles, this is usually the trunk volume.
+In VSS Chassis is the All data concerning steering, suspension, wheels, and brakes.
+In VSS Vehicle.Chassis is the All data concerning steering, suspension, wheels, and brakes.
+In VSS Connectivity is the Connectivity data.
+In VSS Vehicle.Connectivity is the Connectivity data.
+In VSS CurbWeight is the Vehicle curb weight, including all liquids and full tank of fuel, but no cargo or passengers.
+In VSS Vehicle.CurbWeight is the Vehicle curb weight, including all liquids and full tank of fuel, but no cargo or passengers.
+In VSS CurrentLocation is the The current latitude and longitude of the vehicle.
+In VSS Vehicle.CurrentLocation is the The current latitude and longitude of the vehicle.
+In VSS CurrentOverallWeight is the Current overall Vehicle weight. Including passengers, cargo and other load inside the car.
+In VSS Vehicle.CurrentOverallWeight is the Current overall Vehicle weight. Including passengers, cargo and other load inside the car.
+In VSS Driver is the Driver data.
+In VSS Vehicle.Driver is the Driver data.
+In VSS EmissionsCO2 is the The CO2 emissions.
+In VSS Vehicle.EmissionsCO2 is the The CO2 emissions.
+In VSS Exterior is the Information about exterior measured by vehicle.
+In VSS Vehicle.Exterior is the Information about exterior measured by vehicle.
+In VSS GrossWeight is the Curb weight of vehicle, including all liquids and full tank of fuel and full load of cargo and passengers.
+In VSS Vehicle.GrossWeight is the Curb weight of vehicle, including all liquids and full tank of fuel and full load of cargo and passengers.
+In VSS Height is the Overall vehicle height.
+In VSS Vehicle.Height is the Overall vehicle height.
+In VSS IsBrokenDown is the Vehicle breakdown or any similar event causing vehicle to stop on the road, that might pose a risk to other road users. True = Vehicle broken down on the road, due to e.g. engine problems, flat tire, out of gas, brake problems. False = Vehicle not broken down.
+In VSS Vehicle.IsBrokenDown is the Vehicle breakdown or any similar event causing vehicle to stop on the road, that might pose a risk to other road users. True = Vehicle broken down on the road, due to e.g. engine problems, flat tire, out of gas, brake problems. False = Vehicle not broken down.
+In VSS IsMoving is the Indicates whether the vehicle is stationary or moving.
+In VSS Vehicle.IsMoving is the Indicates whether the vehicle is stationary or moving.
+In VSS Length is the Overall vehicle length.
+In VSS Vehicle.Length is the Overall vehicle length.
+In VSS LowVoltageSystemState is the State of the supply voltage of the control units (usually 12V).
+In VSS Vehicle.LowVoltageSystemState is the State of the supply voltage of the control units (usually 12V).
+In VSS MaxTowBallWeight is the Maximum vertical weight on the tow ball of a trailer.
+In VSS Vehicle.MaxTowBallWeight is the Maximum vertical weight on the tow ball of a trailer.
+In VSS MaxTowWeight is the Maximum weight of trailer.
+In VSS Vehicle.MaxTowWeight is the Maximum weight of trailer.
+In VSS OBD is the OBD data.
+In VSS Vehicle.OBD is the OBD data.
+In VSS Powertrain is the Powertrain data for battery management, etc.
+In VSS Vehicle.Powertrain is the Powertrain data for battery management, etc.
+In VSS RoofLoad is the The permitted total weight of cargo and installations (e.g. a roof rack) on top of the vehicle.
+In VSS Vehicle.RoofLoad is the The permitted total weight of cargo and installations (e.g. a roof rack) on top of the vehicle.
+In VSS Service is the Service data.
+In VSS Vehicle.Service is the Service data.
+In VSS Speed is the Vehicle speed.
+In VSS Vehicle.Speed is the Vehicle speed.
+In VSS Trailer is the Trailer signals.
+In VSS Vehicle.Trailer is the Trailer signals.
+In VSS TravelledDistance is the Odometer reading, total distance travelled during the lifetime of the vehicle.
+In VSS Vehicle.TravelledDistance is the Odometer reading, total distance travelled during the lifetime of the vehicle.
+In VSS TripMeterReading is the Current trip meter reading.
+In VSS Vehicle.TripMeterReading is the Current trip meter reading.
+In VSS VehicleIdentification is the Attributes that identify a vehicle.
+In VSS Vehicle.VehicleIdentification is the Attributes that identify a vehicle.
+In VSS VersionVSS is the Supported Version of VSS.
+In VSS Vehicle.VersionVSS is the Supported Version of VSS.
+In VSS Width is the Overall vehicle width.
+In VSS Vehicle.Width is the Overall vehicle width.
+In VSS ADAS is the All Advanced Driver Assist Systems data.
+In VSS Vehicle.ADAS is the All Advanced Driver Assist Systems data.
+In VSS Acceleration is the Spatial acceleration. Axis definitions according to ISO 8855.
+In VSS Vehicle.Acceleration is the Spatial acceleration. Axis definitions according to ISO 8855.
+In VSS AngularVelocity is the Spatial rotation. Axis definitions according to ISO 8855.
+In VSS Vehicle.AngularVelocity is the Spatial rotation. Axis definitions according to ISO 8855.
+In VSS AverageSpeed is the Average speed for the current trip.
+In VSS Vehicle.AverageSpeed is the Average speed for the current trip.
+In VSS Body is the All body components.
+In VSS Vehicle.Body is the All body components.
+In VSS Cabin is the All in-cabin components, including doors.
+In VSS Vehicle.Cabin is the All in-cabin components, including doors.
+In VSS CargoVolume is the The available volume for cargo or luggage. For automobiles, this is usually the trunk volume.
+In VSS Vehicle.CargoVolume is the The available volume for cargo or luggage. For automobiles, this is usually the trunk volume.
+In VSS Chassis is the All data concerning steering, suspension, wheels, and brakes.
+In VSS Vehicle.Chassis is the All data concerning steering, suspension, wheels, and brakes.
+In VSS Connectivity is the Connectivity data.
+In VSS Vehicle.Connectivity is the Connectivity data.
+In VSS CurbWeight is the Vehicle curb weight, including all liquids and full tank of fuel, but no cargo or passengers.
+In VSS Vehicle.CurbWeight is the Vehicle curb weight, including all liquids and full tank of fuel, but no cargo or passengers.
+In VSS CurrentLocation is the The current latitude and longitude of the vehicle.
+In VSS Vehicle.CurrentLocation is the The current latitude and longitude of the vehicle.
+In VSS CurrentOverallWeight is the Current overall Vehicle weight. Including passengers, cargo and other load inside the car.
+In VSS Vehicle.CurrentOverallWeight is the Current overall Vehicle weight. Including passengers, cargo and other load inside the car.
+In VSS Driver is the Driver data.
+In VSS Vehicle.Driver is the Driver data.
+In VSS EmissionsCO2 is the The CO2 emissions.
+In VSS Vehicle.EmissionsCO2 is the The CO2 emissions.
+In VSS Exterior is the Information about exterior measured by vehicle.
+In VSS Vehicle.Exterior is the Information about exterior measured by vehicle.
+In VSS GrossWeight is the Curb weight of vehicle, including all liquids and full tank of fuel and full load of cargo and passengers.
+In VSS Vehicle.GrossWeight is the Curb weight of vehicle, including all liquids and full tank of fuel and full load of cargo and passengers.
+In VSS Height is the Overall vehicle height.
+In VSS Vehicle.Height is the Overall vehicle height.
+In VSS IsBrokenDown is the Vehicle breakdown or any similar event causing vehicle to stop on the road, that might pose a risk to other road users. True = Vehicle broken down on the road, due to e.g. engine problems, flat tire, out of gas, brake problems. False = Vehicle not broken down.
+In VSS Vehicle.IsBrokenDown is the Vehicle breakdown or any similar event causing vehicle to stop on the road, that might pose a risk to other road users. True = Vehicle broken down on the road, due to e.g. engine problems, flat tire, out of gas, brake problems. False = Vehicle not broken down.
+In VSS IsMoving is the Indicates whether the vehicle is stationary or moving.
+In VSS Vehicle.IsMoving is the Indicates whether the vehicle is stationary or moving.
+In VSS Length is the Overall vehicle length.
+In VSS Vehicle.Length is the Overall vehicle length.
+In VSS LowVoltageSystemState is the State of the supply voltage of the control units (usually 12V).
+In VSS Vehicle.LowVoltageSystemState is the State of the supply voltage of the control units (usually 12V).
+In VSS MaxTowBallWeight is the Maximum vertical weight on the tow ball of a trailer.
+In VSS Vehicle.MaxTowBallWeight is the Maximum vertical weight on the tow ball of a trailer.
+In VSS MaxTowWeight is the Maximum weight of trailer.
+In VSS Vehicle.MaxTowWeight is the Maximum weight of trailer.
+In VSS OBD is the OBD data.
+In VSS Vehicle.OBD is the OBD data.
+In VSS Powertrain is the Powertrain data for battery management, etc.
+In VSS Vehicle.Powertrain is the Powertrain data for battery management, etc.
+In VSS RoofLoad is the The permitted total weight of cargo and installations (e.g. a roof rack) on top of the vehicle.
+In VSS Vehicle.RoofLoad is the The permitted total weight of cargo and installations (e.g. a roof rack) on top of the vehicle.
+In VSS Service is the Service data.
+In VSS Vehicle.Service is the Service data.
+In VSS Speed is the Vehicle speed.
+In VSS Vehicle.Speed is the Vehicle speed.
+In VSS Trailer is the Trailer signals.
+In VSS Vehicle.Trailer is the Trailer signals.
+In VSS TravelledDistance is the Odometer reading, total distance travelled during the lifetime of the vehicle.
+In VSS Vehicle.TravelledDistance is the Odometer reading, total distance travelled during the lifetime of the vehicle.
+In VSS TripMeterReading is the Current trip meter reading.
+In VSS Vehicle.TripMeterReading is the Current trip meter reading.
+In VSS VehicleIdentification is the Attributes that identify a vehicle.
+In VSS Vehicle.VehicleIdentification is the Attributes that identify a vehicle.
+In VSS VersionVSS is the Supported Version of VSS.
+In VSS Vehicle.VersionVSS is the Supported Version of VSS.
+In VSS Width is the Overall vehicle width.
+In VSS Vehicle.Width is the Overall vehicle width.
+In VSS ADAS is the All Advanced Driver Assist Systems data.
+In VSS Vehicle.ADAS is the All Advanced Driver Assist Systems data.
+In VSS Acceleration is the Spatial acceleration. Axis definitions according to ISO 8855.
+In VSS Vehicle.Acceleration is the Spatial acceleration. Axis definitions according to ISO 8855.
+In VSS AngularVelocity is the Spatial rotation. Axis definitions according to ISO 8855.
+In VSS Vehicle.AngularVelocity is the Spatial rotation. Axis definitions according to ISO 8855.
+In VSS AverageSpeed is the Average speed for the current trip.
+In VSS Vehicle.AverageSpeed is the Average speed for the current trip.
+In VSS Body is the All body components.
+In VSS Vehicle.Body is the All body components.
+In VSS Cabin is the All in-cabin components, including doors.
+In VSS Vehicle.Cabin is the All in-cabin components, including doors.
+In VSS CargoVolume is the The available volume for cargo or luggage. For automobiles, this is usually the trunk volume.
+In VSS Vehicle.CargoVolume is the The available volume for cargo or luggage. For automobiles, this is usually the trunk volume.
+In VSS Chassis is the All data concerning steering, suspension, wheels, and brakes.
+In VSS Vehicle.Chassis is the All data concerning steering, suspension, wheels, and brakes.
+In VSS Connectivity is the Connectivity data.
+In VSS Vehicle.Connectivity is the Connectivity data.
+In VSS CurbWeight is the Vehicle curb weight, including all liquids and full tank of fuel, but no cargo or passengers.
+In VSS Vehicle.CurbWeight is the Vehicle curb weight, including all liquids and full tank of fuel, but no cargo or passengers.
+In VSS CurrentLocation is the The current latitude and longitude of the vehicle.
+In VSS Vehicle.CurrentLocation is the The current latitude and longitude of the vehicle.
+In VSS CurrentOverallWeight is the Current overall Vehicle weight. Including passengers, cargo and other load inside the car.
+In VSS Vehicle.CurrentOverallWeight is the Current overall Vehicle weight. Including passengers, cargo and other load inside the car.
+In VSS Driver is the Driver data.
+In VSS Vehicle.Driver is the Driver data.
+In VSS EmissionsCO2 is the The CO2 emissions.
+In VSS Vehicle.EmissionsCO2 is the The CO2 emissions.
+In VSS Exterior is the Information about exterior measured by vehicle.
+In VSS Vehicle.Exterior is the Information about exterior measured by vehicle.
+In VSS GrossWeight is the Curb weight of vehicle, including all liquids and full tank of fuel and full load of cargo and passengers.
+In VSS Vehicle.GrossWeight is the Curb weight of vehicle, including all liquids and full tank of fuel and full load of cargo and passengers.
+In VSS Height is the Overall vehicle height.
+In VSS Vehicle.Height is the Overall vehicle height.
+In VSS IsBrokenDown is the Vehicle breakdown or any similar event causing vehicle to stop on the road, that might pose a risk to other road users. True = Vehicle broken down on the road, due to e.g. engine problems, flat tire, out of gas, brake problems. False = Vehicle not broken down.
+In VSS Vehicle.IsBrokenDown is the Vehicle breakdown or any similar event causing vehicle to stop on the road, that might pose a risk to other road users. True = Vehicle broken down on the road, due to e.g. engine problems, flat tire, out of gas, brake problems. False = Vehicle not broken down.
+In VSS IsMoving is the Indicates whether the vehicle is stationary or moving.
+In VSS Vehicle.IsMoving is the Indicates whether the vehicle is stationary or moving.
+In VSS Length is the Overall vehicle length.
+In VSS Vehicle.Length is the Overall vehicle length.
+In VSS LowVoltageSystemState is the State of the supply voltage of the control units (usually 12V).
+In VSS Vehicle.LowVoltageSystemState is the State of the supply voltage of the control units (usually 12V).
+In VSS MaxTowBallWeight is the Maximum vertical weight on the tow ball of a trailer.
+In VSS Vehicle.MaxTowBallWeight is the Maximum vertical weight on the tow ball of a trailer.
+In VSS MaxTowWeight is the Maximum weight of trailer.
+In VSS Vehicle.MaxTowWeight is the Maximum weight of trailer.
+In VSS OBD is the OBD data.
+In VSS Vehicle.OBD is the OBD data.
+In VSS Powertrain is the Powertrain data for battery management, etc.
+In VSS Vehicle.Powertrain is the Powertrain data for battery management, etc.
+In VSS RoofLoad is the The permitted total weight of cargo and installations (e.g. a roof rack) on top of the vehicle.
+In VSS Vehicle.RoofLoad is the The permitted total weight of cargo and installations (e.g. a roof rack) on top of the vehicle.
+In VSS Service is the Service data.
+In VSS Vehicle.Service is the Service data.
+In VSS Speed is the Vehicle speed.
+In VSS Vehicle.Speed is the Vehicle speed.
+In VSS Trailer is the Trailer signals.
+In VSS Vehicle.Trailer is the Trailer signals.
+In VSS TravelledDistance is the Odometer reading, total distance travelled during the lifetime of the vehicle.
+In VSS Vehicle.TravelledDistance is the Odometer reading, total distance travelled during the lifetime of the vehicle.
+In VSS TripMeterReading is the Current trip meter reading.
+In VSS Vehicle.TripMeterReading is the Current trip meter reading.
+In VSS VehicleIdentification is the Attributes that identify a vehicle.
+In VSS Vehicle.VehicleIdentification is the Attributes that identify a vehicle.
+In VSS VersionVSS is the Supported Version of VSS.
+In VSS Vehicle.VersionVSS is the Supported Version of VSS.
+In VSS Width is the Overall vehicle width.
+In VSS Vehicle.Width is the Overall vehicle width.
+In VSS ADAS is the All Advanced Driver Assist Systems data.
+In VSS Vehicle.ADAS is the All Advanced Driver Assist Systems data.
+In VSS Acceleration is the Spatial acceleration. Axis definitions according to ISO 8855.
+In VSS Vehicle.Acceleration is the Spatial acceleration. Axis definitions according to ISO 8855.
+In VSS AngularVelocity is the Spatial rotation. Axis definitions according to ISO 8855.
+In VSS Vehicle.AngularVelocity is the Spatial rotation. Axis definitions according to ISO 8855.
+In VSS AverageSpeed is the Average speed for the current trip.
+In VSS Vehicle.AverageSpeed is the Average speed for the current trip.
+In VSS Body is the All body components.
+In VSS Vehicle.Body is the All body components.
+In VSS Cabin is the All in-cabin components, including doors.
+In VSS Vehicle.Cabin is the All in-cabin components, including doors.
+In VSS CargoVolume is the The available volume for cargo or luggage. For automobiles, this is usually the trunk volume.
+In VSS Vehicle.CargoVolume is the The available volume for cargo or luggage. For automobiles, this is usually the trunk volume.
+In VSS Chassis is the All data concerning steering, suspension, wheels, and brakes.
+In VSS Vehicle.Chassis is the All data concerning steering, suspension, wheels, and brakes.
+In VSS Connectivity is the Connectivity data.
+In VSS Vehicle.Connectivity is the Connectivity data.
+In VSS CurbWeight is the Vehicle curb weight, including all liquids and full tank of fuel, but no cargo or passengers.
+In VSS Vehicle.CurbWeight is the Vehicle curb weight, including all liquids and full tank of fuel, but no cargo or passengers.
+In VSS CurrentLocation is the The current latitude and longitude of the vehicle.
+In VSS Vehicle.CurrentLocation is the The current latitude and longitude of the vehicle.
+In VSS CurrentOverallWeight is the Current overall Vehicle weight. Including passengers, cargo and other load inside the car.
+In VSS Vehicle.CurrentOverallWeight is the Current overall Vehicle weight. Including passengers, cargo and other load inside the car.
+In VSS Driver is the Driver data.
+In VSS Vehicle.Driver is the Driver data.
+In VSS EmissionsCO2 is the The CO2 emissions.
+In VSS Vehicle.EmissionsCO2 is the The CO2 emissions.
+In VSS Exterior is the Information about exterior measured by vehicle.
+In VSS Vehicle.Exterior is the Information about exterior measured by vehicle.
+In VSS GrossWeight is the Curb weight of vehicle, including all liquids and full tank of fuel and full load of cargo and passengers.
+In VSS Vehicle.GrossWeight is the Curb weight of vehicle, including all liquids and full tank of fuel and full load of cargo and passengers.
+In VSS Height is the Overall vehicle height.
+In VSS Vehicle.Height is the Overall vehicle height.
+In VSS IsBrokenDown is the Vehicle breakdown or any similar event causing vehicle to stop on the road, that might pose a risk to other road users. True = Vehicle broken down on the road, due to e.g. engine problems, flat tire, out of gas, brake problems. False = Vehicle not broken down.
+In VSS Vehicle.IsBrokenDown is the Vehicle breakdown or any similar event causing vehicle to stop on the road, that might pose a risk to other road users. True = Vehicle broken down on the road, due to e.g. engine problems, flat tire, out of gas, brake problems. False = Vehicle not broken down.
+In VSS IsMoving is the Indicates whether the vehicle is stationary or moving.
+In VSS Vehicle.IsMoving is the Indicates whether the vehicle is stationary or moving.
+In VSS Length is the Overall vehicle length.
+In VSS Vehicle.Length is the Overall vehicle length.
+In VSS LowVoltageSystemState is the State of the supply voltage of the control units (usually 12V).
+In VSS Vehicle.LowVoltageSystemState is the State of the supply voltage of the control units (usually 12V).
+In VSS MaxTowBallWeight is the Maximum vertical weight on the tow ball of a trailer.
+In VSS Vehicle.MaxTowBallWeight is the Maximum vertical weight on the tow ball of a trailer.
+In VSS MaxTowWeight is the Maximum weight of trailer.
+In VSS Vehicle.MaxTowWeight is the Maximum weight of trailer.
+In VSS OBD is the OBD data.
+In VSS Vehicle.OBD is the OBD data.
+In VSS Powertrain is the Powertrain data for battery management, etc.
+In VSS Vehicle.Powertrain is the Powertrain data for battery management, etc.
+In VSS RoofLoad is the The permitted total weight of cargo and installations (e.g. a roof rack) on top of the vehicle.
+In VSS Vehicle.RoofLoad is the The permitted total weight of cargo and installations (e.g. a roof rack) on top of the vehicle.
+In VSS Service is the Service data.
+In VSS Vehicle.Service is the Service data.
+In VSS Speed is the Vehicle speed.
+In VSS Vehicle.Speed is the Vehicle speed.
+In VSS Trailer is the Trailer signals.
+In VSS Vehicle.Trailer is the Trailer signals.
+In VSS TravelledDistance is the Odometer reading, total distance travelled during the lifetime of the vehicle.
+In VSS Vehicle.TravelledDistance is the Odometer reading, total distance travelled during the lifetime of the vehicle.
+In VSS TripMeterReading is the Current trip meter reading.
+In VSS Vehicle.TripMeterReading is the Current trip meter reading.
+In VSS VehicleIdentification is the Attributes that identify a vehicle.
+In VSS Vehicle.VehicleIdentification is the Attributes that identify a vehicle.
+In VSS VersionVSS is the Supported Version of VSS.
+In VSS Vehicle.VersionVSS is the Supported Version of VSS.
+In VSS Width is the Overall vehicle width.
+In VSS Vehicle.Width is the Overall vehicle width.
+In VSS ADAS is the All Advanced Driver Assist Systems data.
+In VSS Vehicle.ADAS is the All Advanced Driver Assist Systems data.
+In VSS Acceleration is the Spatial acceleration. Axis definitions according to ISO 8855.
+In VSS Vehicle.Acceleration is the Spatial acceleration. Axis definitions according to ISO 8855.
+In VSS AngularVelocity is the Spatial rotation. Axis definitions according to ISO 8855.
+In VSS Vehicle.AngularVelocity is the Spatial rotation. Axis definitions according to ISO 8855.
+In VSS AverageSpeed is the Average speed for the current trip.
+In VSS Vehicle.AverageSpeed is the Average speed for the current trip.
+In VSS Body is the All body components.
+In VSS Vehicle.Body is the All body components.
+In VSS Cabin is the All in-cabin components, including doors.
+In VSS Vehicle.Cabin is the All in-cabin components, including doors.
+In VSS CargoVolume is the The available volume for cargo or luggage. For automobiles, this is usually the trunk volume.
+In VSS Vehicle.CargoVolume is the The available volume for cargo or luggage. For automobiles, this is usually the trunk volume.
+In VSS Chassis is the All data concerning steering, suspension, wheels, and brakes.
+In VSS Vehicle.Chassis is the All data concerning steering, suspension, wheels, and brakes.
+In VSS Connectivity is the Connectivity data.
+In VSS Vehicle.Connectivity is the Connectivity data.
+In VSS CurbWeight is the Vehicle curb weight, including all liquids and full tank of fuel, but no cargo or passengers.
+In VSS Vehicle.CurbWeight is the Vehicle curb weight, including all liquids and full tank of fuel, but no cargo or passengers.
+In VSS CurrentLocation is the The current latitude and longitude of the vehicle.
+In VSS Vehicle.CurrentLocation is the The current latitude and longitude of the vehicle.
+In VSS CurrentOverallWeight is the Current overall Vehicle weight. Including passengers, cargo and other load inside the car.
+In VSS Vehicle.CurrentOverallWeight is the Current overall Vehicle weight. Including passengers, cargo and other load inside the car.
+In VSS Driver is the Driver data.
+In VSS Vehicle.Driver is the Driver data.
+In VSS EmissionsCO2 is the The CO2 emissions.
+In VSS Vehicle.EmissionsCO2 is the The CO2 emissions.
+In VSS Exterior is the Information about exterior measured by vehicle.
+In VSS Vehicle.Exterior is the Information about exterior measured by vehicle.
+In VSS GrossWeight is the Curb weight of vehicle, including all liquids and full tank of fuel and full load of cargo and passengers.
+In VSS Vehicle.GrossWeight is the Curb weight of vehicle, including all liquids and full tank of fuel and full load of cargo and passengers.
+In VSS Height is the Overall vehicle height.
+In VSS Vehicle.Height is the Overall vehicle height.
+In VSS IsBrokenDown is the Vehicle breakdown or any similar event causing vehicle to stop on the road, that might pose a risk to other road users. True = Vehicle broken down on the road, due to e.g. engine problems, flat tire, out of gas, brake problems. False = Vehicle not broken down.
+In VSS Vehicle.IsBrokenDown is the Vehicle breakdown or any similar event causing vehicle to stop on the road, that might pose a risk to other road users. True = Vehicle broken down on the road, due to e.g. engine problems, flat tire, out of gas, brake problems. False = Vehicle not broken down.
+In VSS IsMoving is the Indicates whether the vehicle is stationary or moving.
+In VSS Vehicle.IsMoving is the Indicates whether the vehicle is stationary or moving.
+In VSS Length is the Overall vehicle length.
+In VSS Vehicle.Length is the Overall vehicle length.
+In VSS LowVoltageSystemState is the State of the supply voltage of the control units (usually 12V).
+In VSS Vehicle.LowVoltageSystemState is the State of the supply voltage of the control units (usually 12V).
+In VSS MaxTowBallWeight is the Maximum vertical weight on the tow ball of a trailer.
+In VSS Vehicle.MaxTowBallWeight is the Maximum vertical weight on the tow ball of a trailer.
+In VSS MaxTowWeight is the Maximum weight of trailer.
+In VSS Vehicle.MaxTowWeight is the Maximum weight of trailer.
+In VSS OBD is the OBD data.
+In VSS Vehicle.OBD is the OBD data.
+In VSS Powertrain is the Powertrain data for battery management, etc.
+In VSS Vehicle.Powertrain is the Powertrain data for battery management, etc.
+In VSS RoofLoad is the The permitted total weight of cargo and installations (e.g. a roof rack) on top of the vehicle.
+In VSS Vehicle.RoofLoad is the The permitted total weight of cargo and installations (e.g. a roof rack) on top of the vehicle.
+In VSS Service is the Service data.
+In VSS Vehicle.Service is the Service data.
+In VSS Speed is the Vehicle speed.
+In VSS Vehicle.Speed is the Vehicle speed.
+In VSS Trailer is the Trailer signals.
+In VSS Vehicle.Trailer is the Trailer signals.
+In VSS TravelledDistance is the Odometer reading, total distance travelled during the lifetime of the vehicle.
+In VSS Vehicle.TravelledDistance is the Odometer reading, total distance travelled during the lifetime of the vehicle.
+In VSS TripMeterReading is the Current trip meter reading.
+In VSS Vehicle.TripMeterReading is the Current trip meter reading.
+In VSS VehicleIdentification is the Attributes that identify a vehicle.
+In VSS Vehicle.VehicleIdentification is the Attributes that identify a vehicle.
+In VSS VersionVSS is the Supported Version of VSS.
+In VSS Vehicle.VersionVSS is the Supported Version of VSS.
+In VSS Width is the Overall vehicle width.
+In VSS Vehicle.Width is the Overall vehicle width.
+In VSS ADAS is the All Advanced Driver Assist Systems data.
+In VSS Vehicle.ADAS is the All Advanced Driver Assist Systems data.
+In VSS Acceleration is the Spatial acceleration. Axis definitions according to ISO 8855.
+In VSS Vehicle.Acceleration is the Spatial acceleration. Axis definitions according to ISO 8855.
+In VSS AngularVelocity is the Spatial rotation. Axis definitions according to ISO 8855.
+In VSS Vehicle.AngularVelocity is the Spatial rotation. Axis definitions according to ISO 8855.
+In VSS AverageSpeed is the Average speed for the current trip.
+In VSS Vehicle.AverageSpeed is the Average speed for the current trip.
+In VSS Body is the All body components.
+In VSS Vehicle.Body is the All body components.
+In VSS Cabin is the All in-cabin components, including doors.
+In VSS Vehicle.Cabin is the All in-cabin components, including doors.
+In VSS CargoVolume is the The available volume for cargo or luggage. For automobiles, this is usually the trunk volume.
+In VSS Vehicle.CargoVolume is the The available volume for cargo or luggage. For automobiles, this is usually the trunk volume.
+In VSS Chassis is the All data concerning steering, suspension, wheels, and brakes.
+In VSS Vehicle.Chassis is the All data concerning steering, suspension, wheels, and brakes.
+In VSS Connectivity is the Connectivity data.
+In VSS Vehicle.Connectivity is the Connectivity data.
+In VSS CurbWeight is the Vehicle curb weight, including all liquids and full tank of fuel, but no cargo or passengers.
+In VSS Vehicle.CurbWeight is the Vehicle curb weight, including all liquids and full tank of fuel, but no cargo or passengers.
+In VSS CurrentLocation is the The current latitude and longitude of the vehicle.
+In VSS Vehicle.CurrentLocation is the The current latitude and longitude of the vehicle.
+In VSS CurrentOverallWeight is the Current overall Vehicle weight. Including passengers, cargo and other load inside the car.
+In VSS Vehicle.CurrentOverallWeight is the Current overall Vehicle weight. Including passengers, cargo and other load inside the car.
+In VSS Driver is the Driver data.
+In VSS Vehicle.Driver is the Driver data.
+In VSS EmissionsCO2 is the The CO2 emissions.
+In VSS Vehicle.EmissionsCO2 is the The CO2 emissions.
+In VSS Exterior is the Information about exterior measured by vehicle.
+In VSS Vehicle.Exterior is the Information about exterior measured by vehicle.
+In VSS GrossWeight is the Curb weight of vehicle, including all liquids and full tank of fuel and full load of cargo and passengers.
+In VSS Vehicle.GrossWeight is the Curb weight of vehicle, including all liquids and full tank of fuel and full load of cargo and passengers.
+In VSS Height is the Overall vehicle height.
+In VSS Vehicle.Height is the Overall vehicle height.
+In VSS IsBrokenDown is the Vehicle breakdown or any similar event causing vehicle to stop on the road, that might pose a risk to other road users. True = Vehicle broken down on the road, due to e.g. engine problems, flat tire, out of gas, brake problems. False = Vehicle not broken down.
+In VSS Vehicle.IsBrokenDown is the Vehicle breakdown or any similar event causing vehicle to stop on the road, that might pose a risk to other road users. True = Vehicle broken down on the road, due to e.g. engine problems, flat tire, out of gas, brake problems. False = Vehicle not broken down.
+In VSS IsMoving is the Indicates whether the vehicle is stationary or moving.
+In VSS Vehicle.IsMoving is the Indicates whether the vehicle is stationary or moving.
+In VSS Length is the Overall vehicle length.
+In VSS Vehicle.Length is the Overall vehicle length.
+In VSS LowVoltageSystemState is the State of the supply voltage of the control units (usually 12V).
+In VSS Vehicle.LowVoltageSystemState is the State of the supply voltage of the control units (usually 12V).
+In VSS MaxTowBallWeight is the Maximum vertical weight on the tow ball of a trailer.
+In VSS Vehicle.MaxTowBallWeight is the Maximum vertical weight on the tow ball of a trailer.
+In VSS MaxTowWeight is the Maximum weight of trailer.
+In VSS Vehicle.MaxTowWeight is the Maximum weight of trailer.
+In VSS OBD is the OBD data.
+In VSS Vehicle.OBD is the OBD data.
+In VSS Powertrain is the Powertrain data for battery management, etc.
+In VSS Vehicle.Powertrain is the Powertrain data for battery management, etc.
+In VSS RoofLoad is the The permitted total weight of cargo and installations (e.g. a roof rack) on top of the vehicle.
+In VSS Vehicle.RoofLoad is the The permitted total weight of cargo and installations (e.g. a roof rack) on top of the vehicle.
+In VSS Service is the Service data.
+In VSS Vehicle.Service is the Service data.
+In VSS Speed is the Vehicle speed.
+In VSS Vehicle.Speed is the Vehicle speed.
+In VSS Trailer is the Trailer signals.
+In VSS Vehicle.Trailer is the Trailer signals.
+In VSS TravelledDistance is the Odometer reading, total distance travelled during the lifetime of the vehicle.
+In VSS Vehicle.TravelledDistance is the Odometer reading, total distance travelled during the lifetime of the vehicle.
+In VSS TripMeterReading is the Current trip meter reading.
+In VSS Vehicle.TripMeterReading is the Current trip meter reading.
+In VSS VehicleIdentification is the Attributes that identify a vehicle.
+In VSS Vehicle.VehicleIdentification is the Attributes that identify a vehicle.
+In VSS VersionVSS is the Supported Version of VSS.
+In VSS Vehicle.VersionVSS is the Supported Version of VSS.
+In VSS Width is the Overall vehicle width.
+In VSS Vehicle.Width is the Overall vehicle width.
+In VSS ADAS is the All Advanced Driver Assist Systems data.
+In VSS Vehicle.ADAS is the All Advanced Driver Assist Systems data.
+In VSS Acceleration is the Spatial acceleration. Axis definitions according to ISO 8855.
+In VSS Vehicle.Acceleration is the Spatial acceleration. Axis definitions according to ISO 8855.
+In VSS AngularVelocity is the Spatial rotation. Axis definitions according to ISO 8855.
+In VSS Vehicle.AngularVelocity is the Spatial rotation. Axis definitions according to ISO 8855.
+In VSS AverageSpeed is the Average speed for the current trip.
+In VSS Vehicle.AverageSpeed is the Average speed for the current trip.
+In VSS Body is the All body components.
+In VSS Vehicle.Body is the All body components.
+In VSS Cabin is the All in-cabin components, including doors.
+In VSS Vehicle.Cabin is the All in-cabin components, including doors.
+In VSS CargoVolume is the The available volume for cargo or luggage. For automobiles, this is usually the trunk volume.
+In VSS Vehicle.CargoVolume is the The available volume for cargo or luggage. For automobiles, this is usually the trunk volume.
+In VSS Chassis is the All data concerning steering, suspension, wheels, and brakes.
+In VSS Vehicle.Chassis is the All data concerning steering, suspension, wheels, and brakes.
+In VSS Connectivity is the Connectivity data.
+In VSS Vehicle.Connectivity is the Connectivity data.
+In VSS CurbWeight is the Vehicle curb weight, including all liquids and full tank of fuel, but no cargo or passengers.
+In VSS Vehicle.CurbWeight is the Vehicle curb weight, including all liquids and full tank of fuel, but no cargo or passengers.
+In VSS CurrentLocation is the The current latitude and longitude of the vehicle.
+In VSS Vehicle.CurrentLocation is the The current latitude and longitude of the vehicle.
+In VSS CurrentOverallWeight is the Current overall Vehicle weight. Including passengers, cargo and other load inside the car.
+In VSS Vehicle.CurrentOverallWeight is the Current overall Vehicle weight. Including passengers, cargo and other load inside the car.
+In VSS Driver is the Driver data.
+In VSS Vehicle.Driver is the Driver data.
+In VSS EmissionsCO2 is the The CO2 emissions.
+In VSS Vehicle.EmissionsCO2 is the The CO2 emissions.
+In VSS Exterior is the Information about exterior measured by vehicle.
+In VSS Vehicle.Exterior is the Information about exterior measured by vehicle.
+In VSS GrossWeight is the Curb weight of vehicle, including all liquids and full tank of fuel and full load of cargo and passengers.
+In VSS Vehicle.GrossWeight is the Curb weight of vehicle, including all liquids and full tank of fuel and full load of cargo and passengers.
+In VSS Height is the Overall vehicle height.
+In VSS Vehicle.Height is the Overall vehicle height.
+In VSS IsBrokenDown is the Vehicle breakdown or any similar event causing vehicle to stop on the road, that might pose a risk to other road users. True = Vehicle broken down on the road, due to e.g. engine problems, flat tire, out of gas, brake problems. False = Vehicle not broken down.
+In VSS Vehicle.IsBrokenDown is the Vehicle breakdown or any similar event causing vehicle to stop on the road, that might pose a risk to other road users. True = Vehicle broken down on the road, due to e.g. engine problems, flat tire, out of gas, brake problems. False = Vehicle not broken down.
+In VSS IsMoving is the Indicates whether the vehicle is stationary or moving.
+In VSS Vehicle.IsMoving is the Indicates whether the vehicle is stationary or moving.
+In VSS Length is the Overall vehicle length.
+In VSS Vehicle.Length is the Overall vehicle length.
+In VSS LowVoltageSystemState is the State of the supply voltage of the control units (usually 12V).
+In VSS Vehicle.LowVoltageSystemState is the State of the supply voltage of the control units (usually 12V).
+In VSS MaxTowBallWeight is the Maximum vertical weight on the tow ball of a trailer.
+In VSS Vehicle.MaxTowBallWeight is the Maximum vertical weight on the tow ball of a trailer.
+In VSS MaxTowWeight is the Maximum weight of trailer.
+In VSS Vehicle.MaxTowWeight is the Maximum weight of trailer.
+In VSS OBD is the OBD data.
+In VSS Vehicle.OBD is the OBD data.
+In VSS Powertrain is the Powertrain data for battery management, etc.
+In VSS Vehicle.Powertrain is the Powertrain data for battery management, etc.
+In VSS RoofLoad is the The permitted total weight of cargo and installations (e.g. a roof rack) on top of the vehicle.
+In VSS Vehicle.RoofLoad is the The permitted total weight of cargo and installations (e.g. a roof rack) on top of the vehicle.
+In VSS Service is the Service data.
+In VSS Vehicle.Service is the Service data.
+In VSS Speed is the Vehicle speed.
+In VSS Vehicle.Speed is the Vehicle speed.
+In VSS Trailer is the Trailer signals.
+In VSS Vehicle.Trailer is the Trailer signals.
+In VSS TravelledDistance is the Odometer reading, total distance travelled during the lifetime of the vehicle.
+In VSS Vehicle.TravelledDistance is the Odometer reading, total distance travelled during the lifetime of the vehicle.
+In VSS TripMeterReading is the Current trip meter reading.
+In VSS Vehicle.TripMeterReading is the Current trip meter reading.
+In VSS VehicleIdentification is the Attributes that identify a vehicle.
+In VSS Vehicle.VehicleIdentification is the Attributes that identify a vehicle.
+In VSS VersionVSS is the Supported Version of VSS.
+In VSS Vehicle.VersionVSS is the Supported Version of VSS.
+In VSS Width is the Overall vehicle width.
+In VSS Vehicle.Width is the Overall vehicle width.
+In VSS ADAS is the All Advanced Driver Assist Systems data.
+In VSS Vehicle.ADAS is the All Advanced Driver Assist Systems data.
+In VSS Acceleration is the Spatial acceleration. Axis definitions according to ISO 8855.
+In VSS Vehicle.Acceleration is the Spatial acceleration. Axis definitions according to ISO 8855.
+In VSS AngularVelocity is the Spatial rotation. Axis definitions according to ISO 8855.
+In VSS Vehicle.AngularVelocity is the Spatial rotation. Axis definitions according to ISO 8855.
+In VSS AverageSpeed is the Average speed for the current trip.
+In VSS Vehicle.AverageSpeed is the Average speed for the current trip.
+In VSS Body is the All body components.
+In VSS Vehicle.Body is the All body components.
+In VSS Cabin is the All in-cabin components, including doors.
+In VSS Vehicle.Cabin is the All in-cabin components, including doors.
+In VSS CargoVolume is the The available volume for cargo or luggage. For automobiles, this is usually the trunk volume.
+In VSS Vehicle.CargoVolume is the The available volume for cargo or luggage. For automobiles, this is usually the trunk volume.
+In VSS Chassis is the All data concerning steering, suspension, wheels, and brakes.
+In VSS Vehicle.Chassis is the All data concerning steering, suspension, wheels, and brakes.
+In VSS Connectivity is the Connectivity data.
+In VSS Vehicle.Connectivity is the Connectivity data.
+In VSS CurbWeight is the Vehicle curb weight, including all liquids and full tank of fuel, but no cargo or passengers.
+In VSS Vehicle.CurbWeight is the Vehicle curb weight, including all liquids and full tank of fuel, but no cargo or passengers.
+In VSS CurrentLocation is the The current latitude and longitude of the vehicle.
+In VSS Vehicle.CurrentLocation is the The current latitude and longitude of the vehicle.
+In VSS CurrentOverallWeight is the Current overall Vehicle weight. Including passengers, cargo and other load inside the car.
+In VSS Vehicle.CurrentOverallWeight is the Current overall Vehicle weight. Including passengers, cargo and other load inside the car.
+In VSS Driver is the Driver data.
+In VSS Vehicle.Driver is the Driver data.
+In VSS EmissionsCO2 is the The CO2 emissions.
+In VSS Vehicle.EmissionsCO2 is the The CO2 emissions.
+In VSS Exterior is the Information about exterior measured by vehicle.
+In VSS Vehicle.Exterior is the Information about exterior measured by vehicle.
+In VSS GrossWeight is the Curb weight of vehicle, including all liquids and full tank of fuel and full load of cargo and passengers.
+In VSS Vehicle.GrossWeight is the Curb weight of vehicle, including all liquids and full tank of fuel and full load of cargo and passengers.
+In VSS Height is the Overall vehicle height.
+In VSS Vehicle.Height is the Overall vehicle height.
+In VSS IsBrokenDown is the Vehicle breakdown or any similar event causing vehicle to stop on the road, that might pose a risk to other road users. True = Vehicle broken down on the road, due to e.g. engine problems, flat tire, out of gas, brake problems. False = Vehicle not broken down.
+In VSS Vehicle.IsBrokenDown is the Vehicle breakdown or any similar event causing vehicle to stop on the road, that might pose a risk to other road users. True = Vehicle broken down on the road, due to e.g. engine problems, flat tire, out of gas, brake problems. False = Vehicle not broken down.
+In VSS IsMoving is the Indicates whether the vehicle is stationary or moving.
+In VSS Vehicle.IsMoving is the Indicates whether the vehicle is stationary or moving.
+In VSS Length is the Overall vehicle length.
+In VSS Vehicle.Length is the Overall vehicle length.
+In VSS LowVoltageSystemState is the State of the supply voltage of the control units (usually 12V).
+In VSS Vehicle.LowVoltageSystemState is the State of the supply voltage of the control units (usually 12V).
+In VSS MaxTowBallWeight is the Maximum vertical weight on the tow ball of a trailer.
+In VSS Vehicle.MaxTowBallWeight is the Maximum vertical weight on the tow ball of a trailer.
+In VSS MaxTowWeight is the Maximum weight of trailer.
+In VSS Vehicle.MaxTowWeight is the Maximum weight of trailer.
+In VSS OBD is the OBD data.
+In VSS Vehicle.OBD is the OBD data.
+In VSS Powertrain is the Powertrain data for battery management, etc.
+In VSS Vehicle.Powertrain is the Powertrain data for battery management, etc.
+In VSS RoofLoad is the The permitted total weight of cargo and installations (e.g. a roof rack) on top of the vehicle.
+In VSS Vehicle.RoofLoad is the The permitted total weight of cargo and installations (e.g. a roof rack) on top of the vehicle.
+In VSS Service is the Service data.
+In VSS Vehicle.Service is the Service data.
+In VSS Speed is the Vehicle speed.
+In VSS Vehicle.Speed is the Vehicle speed.
+In VSS Trailer is the Trailer signals.
+In VSS Vehicle.Trailer is the Trailer signals.
+In VSS TravelledDistance is the Odometer reading, total distance travelled during the lifetime of the vehicle.
+In VSS Vehicle.TravelledDistance is the Odometer reading, total distance travelled during the lifetime of the vehicle.
+In VSS TripMeterReading is the Current trip meter reading.
+In VSS Vehicle.TripMeterReading is the Current trip meter reading.
+In VSS VehicleIdentification is the Attributes that identify a vehicle.
+In VSS Vehicle.VehicleIdentification is the Attributes that identify a vehicle.
+In VSS VersionVSS is the Supported Version of VSS.
+In VSS Vehicle.VersionVSS is the Supported Version of VSS.
+In VSS Width is the Overall vehicle width.
+In VSS Vehicle.Width is the Overall vehicle width.
+In VSS ADAS is the All Advanced Driver Assist Systems data.
+In VSS Vehicle.ADAS is the All Advanced Driver Assist Systems data.
+In VSS Acceleration is the Spatial acceleration. Axis definitions according to ISO 8855.
+In VSS Vehicle.Acceleration is the Spatial acceleration. Axis definitions according to ISO 8855.
+In VSS AngularVelocity is the Spatial rotation. Axis definitions according to ISO 8855.
+In VSS Vehicle.AngularVelocity is the Spatial rotation. Axis definitions according to ISO 8855.
+In VSS AverageSpeed is the Average speed for the current trip.
+In VSS Vehicle.AverageSpeed is the Average speed for the current trip.
+In VSS Body is the All body components.
+In VSS Vehicle.Body is the All body components.
+In VSS Cabin is the All in-cabin components, including doors.
+In VSS Vehicle.Cabin is the All in-cabin components, including doors.
+In VSS CargoVolume is the The available volume for cargo or luggage. For automobiles, this is usually the trunk volume.
+In VSS Vehicle.CargoVolume is the The available volume for cargo or luggage. For automobiles, this is usually the trunk volume.
+In VSS Chassis is the All data concerning steering, suspension, wheels, and brakes.
+In VSS Vehicle.Chassis is the All data concerning steering, suspension, wheels, and brakes.
+In VSS Connectivity is the Connectivity data.
+In VSS Vehicle.Connectivity is the Connectivity data.
+In VSS CurbWeight is the Vehicle curb weight, including all liquids and full tank of fuel, but no cargo or passengers.
+In VSS Vehicle.CurbWeight is the Vehicle curb weight, including all liquids and full tank of fuel, but no cargo or passengers.
+In VSS CurrentLocation is the The current latitude and longitude of the vehicle.
+In VSS Vehicle.CurrentLocation is the The current latitude and longitude of the vehicle.
+In VSS CurrentOverallWeight is the Current overall Vehicle weight. Including passengers, cargo and other load inside the car.
+In VSS Vehicle.CurrentOverallWeight is the Current overall Vehicle weight. Including passengers, cargo and other load inside the car.
+In VSS Driver is the Driver data.
+In VSS Vehicle.Driver is the Driver data.
+In VSS EmissionsCO2 is the The CO2 emissions.
+In VSS Vehicle.EmissionsCO2 is the The CO2 emissions.
+In VSS Exterior is the Information about exterior measured by vehicle.
+In VSS Vehicle.Exterior is the Information about exterior measured by vehicle.
+In VSS GrossWeight is the Curb weight of vehicle, including all liquids and full tank of fuel and full load of cargo and passengers.
+In VSS Vehicle.GrossWeight is the Curb weight of vehicle, including all liquids and full tank of fuel and full load of cargo and passengers.
+In VSS Height is the Overall vehicle height.
+In VSS Vehicle.Height is the Overall vehicle height.
+In VSS IsBrokenDown is the Vehicle breakdown or any similar event causing vehicle to stop on the road, that might pose a risk to other road users. True = Vehicle broken down on the road, due to e.g. engine problems, flat tire, out of gas, brake problems. False = Vehicle not broken down.
+In VSS Vehicle.IsBrokenDown is the Vehicle breakdown or any similar event causing vehicle to stop on the road, that might pose a risk to other road users. True = Vehicle broken down on the road, due to e.g. engine problems, flat tire, out of gas, brake problems. False = Vehicle not broken down.
+In VSS IsMoving is the Indicates whether the vehicle is stationary or moving.
+In VSS Vehicle.IsMoving is the Indicates whether the vehicle is stationary or moving.
+In VSS Length is the Overall vehicle length.
+In VSS Vehicle.Length is the Overall vehicle length.
+In VSS LowVoltageSystemState is the State of the supply voltage of the control units (usually 12V).
+In VSS Vehicle.LowVoltageSystemState is the State of the supply voltage of the control units (usually 12V).
+In VSS MaxTowBallWeight is the Maximum vertical weight on the tow ball of a trailer.
+In VSS Vehicle.MaxTowBallWeight is the Maximum vertical weight on the tow ball of a trailer.
+In VSS MaxTowWeight is the Maximum weight of trailer.
+In VSS Vehicle.MaxTowWeight is the Maximum weight of trailer.
+In VSS OBD is the OBD data.
+In VSS Vehicle.OBD is the OBD data.
+In VSS Powertrain is the Powertrain data for battery management, etc.
+In VSS Vehicle.Powertrain is the Powertrain data for battery management, etc.
+In VSS RoofLoad is the The permitted total weight of cargo and installations (e.g. a roof rack) on top of the vehicle.
+In VSS Vehicle.RoofLoad is the The permitted total weight of cargo and installations (e.g. a roof rack) on top of the vehicle.
+In VSS Service is the Service data.
+In VSS Vehicle.Service is the Service data.
+In VSS Speed is the Vehicle speed.
+In VSS Vehicle.Speed is the Vehicle speed.
+In VSS Trailer is the Trailer signals.
+In VSS Vehicle.Trailer is the Trailer signals.
+In VSS TravelledDistance is the Odometer reading, total distance travelled during the lifetime of the vehicle.
+In VSS Vehicle.TravelledDistance is the Odometer reading, total distance travelled during the lifetime of the vehicle.
+In VSS TripMeterReading is the Current trip meter reading.
+In VSS Vehicle.TripMeterReading is the Current trip meter reading.
+In VSS VehicleIdentification is the Attributes that identify a vehicle.
+In VSS Vehicle.VehicleIdentification is the Attributes that identify a vehicle.
+In VSS VersionVSS is the Supported Version of VSS.
+In VSS Vehicle.VersionVSS is the Supported Version of VSS.
+In VSS Width is the Overall vehicle width.
+In VSS Vehicle.Width is the Overall vehicle width.
+In VSS ADAS is the All Advanced Driver Assist Systems data.
+In VSS Vehicle.ADAS is the All Advanced Driver Assist Systems data.
+In VSS Acceleration is the Spatial acceleration. Axis definitions according to ISO 8855.
+In VSS Vehicle.Acceleration is the Spatial acceleration. Axis definitions according to ISO 8855.
+In VSS AngularVelocity is the Spatial rotation. Axis definitions according to ISO 8855.
+In VSS Vehicle.AngularVelocity is the Spatial rotation. Axis definitions according to ISO 8855.
+In VSS AverageSpeed is the Average speed for the current trip.
+In VSS Vehicle.AverageSpeed is the Average speed for the current trip.
+In VSS Body is the All body components.
+In VSS Vehicle.Body is the All body components.
+In VSS Cabin is the All in-cabin components, including doors.
+In VSS Vehicle.Cabin is the All in-cabin components, including doors.
+In VSS CargoVolume is the The available volume for cargo or luggage. For automobiles, this is usually the trunk volume.
+In VSS Vehicle.CargoVolume is the The available volume for cargo or luggage. For automobiles, this is usually the trunk volume.
+In VSS Chassis is the All data concerning steering, suspension, wheels, and brakes.
+In VSS Vehicle.Chassis is the All data concerning steering, suspension, wheels, and brakes.
+In VSS Connectivity is the Connectivity data.
+In VSS Vehicle.Connectivity is the Connectivity data.
+In VSS CurbWeight is the Vehicle curb weight, including all liquids and full tank of fuel, but no cargo or passengers.
+In VSS Vehicle.CurbWeight is the Vehicle curb weight, including all liquids and full tank of fuel, but no cargo or passengers.
+In VSS CurrentLocation is the The current latitude and longitude of the vehicle.
+In VSS Vehicle.CurrentLocation is the The current latitude and longitude of the vehicle.
+In VSS CurrentOverallWeight is the Current overall Vehicle weight. Including passengers, cargo and other load inside the car.
+In VSS Vehicle.CurrentOverallWeight is the Current overall Vehicle weight. Including passengers, cargo and other load inside the car.
+In VSS Driver is the Driver data.
+In VSS Vehicle.Driver is the Driver data.
+In VSS EmissionsCO2 is the The CO2 emissions.
+In VSS Vehicle.EmissionsCO2 is the The CO2 emissions.
+In VSS Exterior is the Information about exterior measured by vehicle.
+In VSS Vehicle.Exterior is the Information about exterior measured by vehicle.
+In VSS GrossWeight is the Curb weight of vehicle, including all liquids and full tank of fuel and full load of cargo and passengers.
+In VSS Vehicle.GrossWeight is the Curb weight of vehicle, including all liquids and full tank of fuel and full load of cargo and passengers.
+In VSS Height is the Overall vehicle height.
+In VSS Vehicle.Height is the Overall vehicle height.
+In VSS IsBrokenDown is the Vehicle breakdown or any similar event causing vehicle to stop on the road, that might pose a risk to other road users. True = Vehicle broken down on the road, due to e.g. engine problems, flat tire, out of gas, brake problems. False = Vehicle not broken down.
+In VSS Vehicle.IsBrokenDown is the Vehicle breakdown or any similar event causing vehicle to stop on the road, that might pose a risk to other road users. True = Vehicle broken down on the road, due to e.g. engine problems, flat tire, out of gas, brake problems. False = Vehicle not broken down.
+In VSS IsMoving is the Indicates whether the vehicle is stationary or moving.
+In VSS Vehicle.IsMoving is the Indicates whether the vehicle is stationary or moving.
+In VSS Length is the Overall vehicle length.
+In VSS Vehicle.Length is the Overall vehicle length.
+In VSS LowVoltageSystemState is the State of the supply voltage of the control units (usually 12V).
+In VSS Vehicle.LowVoltageSystemState is the State of the supply voltage of the control units (usually 12V).
+In VSS MaxTowBallWeight is the Maximum vertical weight on the tow ball of a trailer.
+In VSS Vehicle.MaxTowBallWeight is the Maximum vertical weight on the tow ball of a trailer.
+In VSS MaxTowWeight is the Maximum weight of trailer.
+In VSS Vehicle.MaxTowWeight is the Maximum weight of trailer.
+In VSS OBD is the OBD data.
+In VSS Vehicle.OBD is the OBD data.
+In VSS Powertrain is the Powertrain data for battery management, etc.
+In VSS Vehicle.Powertrain is the Powertrain data for battery management, etc.
+In VSS RoofLoad is the The permitted total weight of cargo and installations (e.g. a roof rack) on top of the vehicle.
+In VSS Vehicle.RoofLoad is the The permitted total weight of cargo and installations (e.g. a roof rack) on top of the vehicle.
+In VSS Service is the Service data.
+In VSS Vehicle.Service is the Service data.
+In VSS Speed is the Vehicle speed.
+In VSS Vehicle.Speed is the Vehicle speed.
+In VSS Trailer is the Trailer signals.
+In VSS Vehicle.Trailer is the Trailer signals.
+In VSS TravelledDistance is the Odometer reading, total distance travelled during the lifetime of the vehicle.
+In VSS Vehicle.TravelledDistance is the Odometer reading, total distance travelled during the lifetime of the vehicle.
+In VSS TripMeterReading is the Current trip meter reading.
+In VSS Vehicle.TripMeterReading is the Current trip meter reading.
+In VSS VehicleIdentification is the Attributes that identify a vehicle.
+In VSS Vehicle.VehicleIdentification is the Attributes that identify a vehicle.
+In VSS VersionVSS is the Supported Version of VSS.
+In VSS Vehicle.VersionVSS is the Supported Version of VSS.
+In VSS Width is the Overall vehicle width.
+In VSS Vehicle.Width is the Overall vehicle width.
+In VSS ADAS is the All Advanced Driver Assist Systems data.
+In VSS Vehicle.ADAS is the All Advanced Driver Assist Systems data.
+In VSS Acceleration is the Spatial acceleration. Axis definitions according to ISO 8855.
+In VSS Vehicle.Acceleration is the Spatial acceleration. Axis definitions according to ISO 8855.
+In VSS AngularVelocity is the Spatial rotation. Axis definitions according to ISO 8855.
+In VSS Vehicle.AngularVelocity is the Spatial rotation. Axis definitions according to ISO 8855.
+In VSS AverageSpeed is the Average speed for the current trip.
+In VSS Vehicle.AverageSpeed is the Average speed for the current trip.
+In VSS Body is the All body components.
+In VSS Vehicle.Body is the All body components.
+In VSS Cabin is the All in-cabin components, including doors.
+In VSS Vehicle.Cabin is the All in-cabin components, including doors.
+In VSS CargoVolume is the The available volume for cargo or luggage. For automobiles, this is usually the trunk volume.
+In VSS Vehicle.CargoVolume is the The available volume for cargo or luggage. For automobiles, this is usually the trunk volume.
+In VSS Chassis is the All data concerning steering, suspension, wheels, and brakes.
+In VSS Vehicle.Chassis is the All data concerning steering, suspension, wheels, and brakes.
+In VSS Connectivity is the Connectivity data.
+In VSS Vehicle.Connectivity is the Connectivity data.
+In VSS CurbWeight is the Vehicle curb weight, including all liquids and full tank of fuel, but no cargo or passengers.
+In VSS Vehicle.CurbWeight is the Vehicle curb weight, including all liquids and full tank of fuel, but no cargo or passengers.
+In VSS CurrentLocation is the The current latitude and longitude of the vehicle.
+In VSS Vehicle.CurrentLocation is the The current latitude and longitude of the vehicle.
+In VSS CurrentOverallWeight is the Current overall Vehicle weight. Including passengers, cargo and other load inside the car.
+In VSS Vehicle.CurrentOverallWeight is the Current overall Vehicle weight. Including passengers, cargo and other load inside the car.
+In VSS Driver is the Driver data.
+In VSS Vehicle.Driver is the Driver data.
+In VSS EmissionsCO2 is the The CO2 emissions.
+In VSS Vehicle.EmissionsCO2 is the The CO2 emissions.
+In VSS Exterior is the Information about exterior measured by vehicle.
+In VSS Vehicle.Exterior is the Information about exterior measured by vehicle.
+In VSS GrossWeight is the Curb weight of vehicle, including all liquids and full tank of fuel and full load of cargo and passengers.
+In VSS Vehicle.GrossWeight is the Curb weight of vehicle, including all liquids and full tank of fuel and full load of cargo and passengers.
+In VSS Height is the Overall vehicle height.
+In VSS Vehicle.Height is the Overall vehicle height.
+In VSS IsBrokenDown is the Vehicle breakdown or any similar event causing vehicle to stop on the road, that might pose a risk to other road users. True = Vehicle broken down on the road, due to e.g. engine problems, flat tire, out of gas, brake problems. False = Vehicle not broken down.
+In VSS Vehicle.IsBrokenDown is the Vehicle breakdown or any similar event causing vehicle to stop on the road, that might pose a risk to other road users. True = Vehicle broken down on the road, due to e.g. engine problems, flat tire, out of gas, brake problems. False = Vehicle not broken down.
+In VSS IsMoving is the Indicates whether the vehicle is stationary or moving.
+In VSS Vehicle.IsMoving is the Indicates whether the vehicle is stationary or moving.
+In VSS Length is the Overall vehicle length.
+In VSS Vehicle.Length is the Overall vehicle length.
+In VSS LowVoltageSystemState is the State of the supply voltage of the control units (usually 12V).
+In VSS Vehicle.LowVoltageSystemState is the State of the supply voltage of the control units (usually 12V).
+In VSS MaxTowBallWeight is the Maximum vertical weight on the tow ball of a trailer.
+In VSS Vehicle.MaxTowBallWeight is the Maximum vertical weight on the tow ball of a trailer.
+In VSS MaxTowWeight is the Maximum weight of trailer.
+In VSS Vehicle.MaxTowWeight is the Maximum weight of trailer.
+In VSS OBD is the OBD data.
+In VSS Vehicle.OBD is the OBD data.
+In VSS Powertrain is the Powertrain data for battery management, etc.
+In VSS Vehicle.Powertrain is the Powertrain data for battery management, etc.
+In VSS RoofLoad is the The permitted total weight of cargo and installations (e.g. a roof rack) on top of the vehicle.
+In VSS Vehicle.RoofLoad is the The permitted total weight of cargo and installations (e.g. a roof rack) on top of the vehicle.
+In VSS Service is the Service data.
+In VSS Vehicle.Service is the Service data.
+In VSS Speed is the Vehicle speed.
+In VSS Vehicle.Speed is the Vehicle speed.
+In VSS Trailer is the Trailer signals.
+In VSS Vehicle.Trailer is the Trailer signals.
+In VSS TravelledDistance is the Odometer reading, total distance travelled during the lifetime of the vehicle.
+In VSS Vehicle.TravelledDistance is the Odometer reading, total distance travelled during the lifetime of the vehicle.
+In VSS TripMeterReading is the Current trip meter reading.
+In VSS Vehicle.TripMeterReading is the Current trip meter reading.
+In VSS VehicleIdentification is the Attributes that identify a vehicle.
+In VSS Vehicle.VehicleIdentification is the Attributes that identify a vehicle.
+In VSS VersionVSS is the Supported Version of VSS.
+In VSS Vehicle.VersionVSS is the Supported Version of VSS.
+In VSS Width is the Overall vehicle width.
+In VSS Vehicle.Width is the Overall vehicle width.
+In VSS ADAS is the All Advanced Driver Assist Systems data.
+In VSS Vehicle.ADAS is the All Advanced Driver Assist Systems data.
+In VSS Acceleration is the Spatial acceleration. Axis definitions according to ISO 8855.
+In VSS Vehicle.Acceleration is the Spatial acceleration. Axis definitions according to ISO 8855.
+In VSS AngularVelocity is the Spatial rotation. Axis definitions according to ISO 8855.
+In VSS Vehicle.AngularVelocity is the Spatial rotation. Axis definitions according to ISO 8855.
+In VSS AverageSpeed is the Average speed for the current trip.
+In VSS Vehicle.AverageSpeed is the Average speed for the current trip.
+In VSS Body is the All body components.
+In VSS Vehicle.Body is the All body components.
+In VSS Cabin is the All in-cabin components, including doors.
+In VSS Vehicle.Cabin is the All in-cabin components, including doors.
+In VSS CargoVolume is the The available volume for cargo or luggage. For automobiles, this is usually the trunk volume.
+In VSS Vehicle.CargoVolume is the The available volume for cargo or luggage. For automobiles, this is usually the trunk volume.
+In VSS Chassis is the All data concerning steering, suspension, wheels, and brakes.
+In VSS Vehicle.Chassis is the All data concerning steering, suspension, wheels, and brakes.
+In VSS Connectivity is the Connectivity data.
+In VSS Vehicle.Connectivity is the Connectivity data.
+In VSS CurbWeight is the Vehicle curb weight, including all liquids and full tank of fuel, but no cargo or passengers.
+In VSS Vehicle.CurbWeight is the Vehicle curb weight, including all liquids and full tank of fuel, but no cargo or passengers.
+In VSS CurrentLocation is the The current latitude and longitude of the vehicle.
+In VSS Vehicle.CurrentLocation is the The current latitude and longitude of the vehicle.
+In VSS CurrentOverallWeight is the Current overall Vehicle weight. Including passengers, cargo and other load inside the car.
+In VSS Vehicle.CurrentOverallWeight is the Current overall Vehicle weight. Including passengers, cargo and other load inside the car.
+In VSS Driver is the Driver data.
+In VSS Vehicle.Driver is the Driver data.
+In VSS EmissionsCO2 is the The CO2 emissions.
+In VSS Vehicle.EmissionsCO2 is the The CO2 emissions.
+In VSS Exterior is the Information about exterior measured by vehicle.
+In VSS Vehicle.Exterior is the Information about exterior measured by vehicle.
+In VSS GrossWeight is the Curb weight of vehicle, including all liquids and full tank of fuel and full load of cargo and passengers.
+In VSS Vehicle.GrossWeight is the Curb weight of vehicle, including all liquids and full tank of fuel and full load of cargo and passengers.
+In VSS Height is the Overall vehicle height.
+In VSS Vehicle.Height is the Overall vehicle height.
+In VSS IsBrokenDown is the Vehicle breakdown or any similar event causing vehicle to stop on the road, that might pose a risk to other road users. True = Vehicle broken down on the road, due to e.g. engine problems, flat tire, out of gas, brake problems. False = Vehicle not broken down.
+In VSS Vehicle.IsBrokenDown is the Vehicle breakdown or any similar event causing vehicle to stop on the road, that might pose a risk to other road users. True = Vehicle broken down on the road, due to e.g. engine problems, flat tire, out of gas, brake problems. False = Vehicle not broken down.
+In VSS IsMoving is the Indicates whether the vehicle is stationary or moving.
+In VSS Vehicle.IsMoving is the Indicates whether the vehicle is stationary or moving.
+In VSS Length is the Overall vehicle length.
+In VSS Vehicle.Length is the Overall vehicle length.
+In VSS LowVoltageSystemState is the State of the supply voltage of the control units (usually 12V).
+In VSS Vehicle.LowVoltageSystemState is the State of the supply voltage of the control units (usually 12V).
+In VSS MaxTowBallWeight is the Maximum vertical weight on the tow ball of a trailer.
+In VSS Vehicle.MaxTowBallWeight is the Maximum vertical weight on the tow ball of a trailer.
+In VSS MaxTowWeight is the Maximum weight of trailer.
+In VSS Vehicle.MaxTowWeight is the Maximum weight of trailer.
+In VSS OBD is the OBD data.
+In VSS Vehicle.OBD is the OBD data.
+In VSS Powertrain is the Powertrain data for battery management, etc.
+In VSS Vehicle.Powertrain is the Powertrain data for battery management, etc.
+In VSS RoofLoad is the The permitted total weight of cargo and installations (e.g. a roof rack) on top of the vehicle.
+In VSS Vehicle.RoofLoad is the The permitted total weight of cargo and installations (e.g. a roof rack) on top of the vehicle.
+In VSS Service is the Service data.
+In VSS Vehicle.Service is the Service data.
+In VSS Speed is the Vehicle speed.
+In VSS Vehicle.Speed is the Vehicle speed.
+In VSS Trailer is the Trailer signals.
+In VSS Vehicle.Trailer is the Trailer signals.
+In VSS TravelledDistance is the Odometer reading, total distance travelled during the lifetime of the vehicle.
+In VSS Vehicle.TravelledDistance is the Odometer reading, total distance travelled during the lifetime of the vehicle.
+In VSS TripMeterReading is the Current trip meter reading.
+In VSS Vehicle.TripMeterReading is the Current trip meter reading.
+In VSS VehicleIdentification is the Attributes that identify a vehicle.
+In VSS Vehicle.VehicleIdentification is the Attributes that identify a vehicle.
+In VSS VersionVSS is the Supported Version of VSS.
+In VSS Vehicle.VersionVSS is the Supported Version of VSS.
+In VSS Width is the Overall vehicle width.
+In VSS Vehicle.Width is the Overall vehicle width.
+In VSS ADAS is the All Advanced Driver Assist Systems data.
+In VSS Vehicle.ADAS is the All Advanced Driver Assist Systems data.
+In VSS Acceleration is the Spatial acceleration. Axis definitions according to ISO 8855.
+In VSS Vehicle.Acceleration is the Spatial acceleration. Axis definitions according to ISO 8855.
+In VSS AngularVelocity is the Spatial rotation. Axis definitions according to ISO 8855.
+In VSS Vehicle.AngularVelocity is the Spatial rotation. Axis definitions according to ISO 8855.
+In VSS AverageSpeed is the Average speed for the current trip.
+In VSS Vehicle.AverageSpeed is the Average speed for the current trip.
+In VSS Body is the All body components.
+In VSS Vehicle.Body is the All body components.
+In VSS Cabin is the All in-cabin components, including doors.
+In VSS Vehicle.Cabin is the All in-cabin components, including doors.
+In VSS CargoVolume is the The available volume for cargo or luggage. For automobiles, this is usually the trunk volume.
+In VSS Vehicle.CargoVolume is the The available volume for cargo or luggage. For automobiles, this is usually the trunk volume.
+In VSS Chassis is the All data concerning steering, suspension, wheels, and brakes.
+In VSS Vehicle.Chassis is the All data concerning steering, suspension, wheels, and brakes.
+In VSS Connectivity is the Connectivity data.
+In VSS Vehicle.Connectivity is the Connectivity data.
+In VSS CurbWeight is the Vehicle curb weight, including all liquids and full tank of fuel, but no cargo or passengers.
+In VSS Vehicle.CurbWeight is the Vehicle curb weight, including all liquids and full tank of fuel, but no cargo or passengers.
+In VSS CurrentLocation is the The current latitude and longitude of the vehicle.
+In VSS Vehicle.CurrentLocation is the The current latitude and longitude of the vehicle.
+In VSS CurrentOverallWeight is the Current overall Vehicle weight. Including passengers, cargo and other load inside the car.
+In VSS Vehicle.CurrentOverallWeight is the Current overall Vehicle weight. Including passengers, cargo and other load inside the car.
+In VSS Driver is the Driver data.
+In VSS Vehicle.Driver is the Driver data.
+In VSS EmissionsCO2 is the The CO2 emissions.
+In VSS Vehicle.EmissionsCO2 is the The CO2 emissions.
+In VSS Exterior is the Information about exterior measured by vehicle.
+In VSS Vehicle.Exterior is the Information about exterior measured by vehicle.
+In VSS GrossWeight is the Curb weight of vehicle, including all liquids and full tank of fuel and full load of cargo and passengers.
+In VSS Vehicle.GrossWeight is the Curb weight of vehicle, including all liquids and full tank of fuel and full load of cargo and passengers.
+In VSS Height is the Overall vehicle height.
+In VSS Vehicle.Height is the Overall vehicle height.
+In VSS IsBrokenDown is the Vehicle breakdown or any similar event causing vehicle to stop on the road, that might pose a risk to other road users. True = Vehicle broken down on the road, due to e.g. engine problems, flat tire, out of gas, brake problems. False = Vehicle not broken down.
+In VSS Vehicle.IsBrokenDown is the Vehicle breakdown or any similar event causing vehicle to stop on the road, that might pose a risk to other road users. True = Vehicle broken down on the road, due to e.g. engine problems, flat tire, out of gas, brake problems. False = Vehicle not broken down.
+In VSS IsMoving is the Indicates whether the vehicle is stationary or moving.
+In VSS Vehicle.IsMoving is the Indicates whether the vehicle is stationary or moving.
+In VSS Length is the Overall vehicle length.
+In VSS Vehicle.Length is the Overall vehicle length.
+In VSS LowVoltageSystemState is the State of the supply voltage of the control units (usually 12V).
+In VSS Vehicle.LowVoltageSystemState is the State of the supply voltage of the control units (usually 12V).
+In VSS MaxTowBallWeight is the Maximum vertical weight on the tow ball of a trailer.
+In VSS Vehicle.MaxTowBallWeight is the Maximum vertical weight on the tow ball of a trailer.
+In VSS MaxTowWeight is the Maximum weight of trailer.
+In VSS Vehicle.MaxTowWeight is the Maximum weight of trailer.
+In VSS OBD is the OBD data.
+In VSS Vehicle.OBD is the OBD data.
+In VSS Powertrain is the Powertrain data for battery management, etc.
+In VSS Vehicle.Powertrain is the Powertrain data for battery management, etc.
+In VSS RoofLoad is the The permitted total weight of cargo and installations (e.g. a roof rack) on top of the vehicle.
+In VSS Vehicle.RoofLoad is the The permitted total weight of cargo and installations (e.g. a roof rack) on top of the vehicle.
+In VSS Service is the Service data.
+In VSS Vehicle.Service is the Service data.
+In VSS Speed is the Vehicle speed.
+In VSS Vehicle.Speed is the Vehicle speed.
+In VSS Trailer is the Trailer signals.
+In VSS Vehicle.Trailer is the Trailer signals.
+In VSS TravelledDistance is the Odometer reading, total distance travelled during the lifetime of the vehicle.
+In VSS Vehicle.TravelledDistance is the Odometer reading, total distance travelled during the lifetime of the vehicle.
+In VSS TripMeterReading is the Current trip meter reading.
+In VSS Vehicle.TripMeterReading is the Current trip meter reading.
+In VSS VehicleIdentification is the Attributes that identify a vehicle.
+In VSS Vehicle.VehicleIdentification is the Attributes that identify a vehicle.
+In VSS VersionVSS is the Supported Version of VSS.
+In VSS Vehicle.VersionVSS is the Supported Version of VSS.
+In VSS Width is the Overall vehicle width.
+In VSS Vehicle.Width is the Overall vehicle width.
+In VSS ADAS is the All Advanced Driver Assist Systems data.
+In VSS Vehicle.ADAS is the All Advanced Driver Assist Systems data.
+In VSS Acceleration is the Spatial acceleration. Axis definitions according to ISO 8855.
+In VSS Vehicle.Acceleration is the Spatial acceleration. Axis definitions according to ISO 8855.
+In VSS AngularVelocity is the Spatial rotation. Axis definitions according to ISO 8855.
+In VSS Vehicle.AngularVelocity is the Spatial rotation. Axis definitions according to ISO 8855.
+In VSS AverageSpeed is the Average speed for the current trip.
+In VSS Vehicle.AverageSpeed is the Average speed for the current trip.
+In VSS Body is the All body components.
+In VSS Vehicle.Body is the All body components.
+In VSS Cabin is the All in-cabin components, including doors.
+In VSS Vehicle.Cabin is the All in-cabin components, including doors.
+In VSS CargoVolume is the The available volume for cargo or luggage. For automobiles, this is usually the trunk volume.
+In VSS Vehicle.CargoVolume is the The available volume for cargo or luggage. For automobiles, this is usually the trunk volume.
+In VSS Chassis is the All data concerning steering, suspension, wheels, and brakes.
+In VSS Vehicle.Chassis is the All data concerning steering, suspension, wheels, and brakes.
+In VSS Connectivity is the Connectivity data.
+In VSS Vehicle.Connectivity is the Connectivity data.
+In VSS CurbWeight is the Vehicle curb weight, including all liquids and full tank of fuel, but no cargo or passengers.
+In VSS Vehicle.CurbWeight is the Vehicle curb weight, including all liquids and full tank of fuel, but no cargo or passengers.
+In VSS CurrentLocation is the The current latitude and longitude of the vehicle.
+In VSS Vehicle.CurrentLocation is the The current latitude and longitude of the vehicle.
+In VSS CurrentOverallWeight is the Current overall Vehicle weight. Including passengers, cargo and other load inside the car.
+In VSS Vehicle.CurrentOverallWeight is the Current overall Vehicle weight. Including passengers, cargo and other load inside the car.
+In VSS Driver is the Driver data.
+In VSS Vehicle.Driver is the Driver data.
+In VSS EmissionsCO2 is the The CO2 emissions.
+In VSS Vehicle.EmissionsCO2 is the The CO2 emissions.
+In VSS Exterior is the Information about exterior measured by vehicle.
+In VSS Vehicle.Exterior is the Information about exterior measured by vehicle.
+In VSS GrossWeight is the Curb weight of vehicle, including all liquids and full tank of fuel and full load of cargo and passengers.
+In VSS Vehicle.GrossWeight is the Curb weight of vehicle, including all liquids and full tank of fuel and full load of cargo and passengers.
+In VSS Height is the Overall vehicle height.
+In VSS Vehicle.Height is the Overall vehicle height.
+In VSS IsBrokenDown is the Vehicle breakdown or any similar event causing vehicle to stop on the road, that might pose a risk to other road users. True = Vehicle broken down on the road, due to e.g. engine problems, flat tire, out of gas, brake problems. False = Vehicle not broken down.
+In VSS Vehicle.IsBrokenDown is the Vehicle breakdown or any similar event causing vehicle to stop on the road, that might pose a risk to other road users. True = Vehicle broken down on the road, due to e.g. engine problems, flat tire, out of gas, brake problems. False = Vehicle not broken down.
+In VSS IsMoving is the Indicates whether the vehicle is stationary or moving.
+In VSS Vehicle.IsMoving is the Indicates whether the vehicle is stationary or moving.
+In VSS Length is the Overall vehicle length.
+In VSS Vehicle.Length is the Overall vehicle length.
+In VSS LowVoltageSystemState is the State of the supply voltage of the control units (usually 12V).
+In VSS Vehicle.LowVoltageSystemState is the State of the supply voltage of the control units (usually 12V).
+In VSS MaxTowBallWeight is the Maximum vertical weight on the tow ball of a trailer.
+In VSS Vehicle.MaxTowBallWeight is the Maximum vertical weight on the tow ball of a trailer.
+In VSS MaxTowWeight is the Maximum weight of trailer.
+In VSS Vehicle.MaxTowWeight is the Maximum weight of trailer.
+In VSS OBD is the OBD data.
+In VSS Vehicle.OBD is the OBD data.
+In VSS Powertrain is the Powertrain data for battery management, etc.
+In VSS Vehicle.Powertrain is the Powertrain data for battery management, etc.
+In VSS RoofLoad is the The permitted total weight of cargo and installations (e.g. a roof rack) on top of the vehicle.
+In VSS Vehicle.RoofLoad is the The permitted total weight of cargo and installations (e.g. a roof rack) on top of the vehicle.
+In VSS Service is the Service data.
+In VSS Vehicle.Service is the Service data.
+In VSS Speed is the Vehicle speed.
+In VSS Vehicle.Speed is the Vehicle speed.
+In VSS Trailer is the Trailer signals.
+In VSS Vehicle.Trailer is the Trailer signals.
+In VSS TravelledDistance is the Odometer reading, total distance travelled during the lifetime of the vehicle.
+In VSS Vehicle.TravelledDistance is the Odometer reading, total distance travelled during the lifetime of the vehicle.
+In VSS TripMeterReading is the Current trip meter reading.
+In VSS Vehicle.TripMeterReading is the Current trip meter reading.
+In VSS VehicleIdentification is the Attributes that identify a vehicle.
+In VSS Vehicle.VehicleIdentification is the Attributes that identify a vehicle.
+In VSS VersionVSS is the Supported Version of VSS.
+In VSS Vehicle.VersionVSS is the Supported Version of VSS.
+In VSS Width is the Overall vehicle width.
+In VSS Vehicle.Width is the Overall vehicle width.
+In VSS ADAS is the All Advanced Driver Assist Systems data.
+In VSS Vehicle.ADAS is the All Advanced Driver Assist Systems data.
+In VSS Acceleration is the Spatial acceleration. Axis definitions according to ISO 8855.
+In VSS Vehicle.Acceleration is the Spatial acceleration. Axis definitions according to ISO 8855.
+In VSS AngularVelocity is the Spatial rotation. Axis definitions according to ISO 8855.
+In VSS Vehicle.AngularVelocity is the Spatial rotation. Axis definitions according to ISO 8855.
+In VSS AverageSpeed is the Average speed for the current trip.
+In VSS Vehicle.AverageSpeed is the Average speed for the current trip.
+In VSS Body is the All body components.
+In VSS Vehicle.Body is the All body components.
+In VSS Cabin is the All in-cabin components, including doors.
+In VSS Vehicle.Cabin is the All in-cabin components, including doors.
+In VSS CargoVolume is the The available volume for cargo or luggage. For automobiles, this is usually the trunk volume.
+In VSS Vehicle.CargoVolume is the The available volume for cargo or luggage. For automobiles, this is usually the trunk volume.
+In VSS Chassis is the All data concerning steering, suspension, wheels, and brakes.
+In VSS Vehicle.Chassis is the All data concerning steering, suspension, wheels, and brakes.
+In VSS Connectivity is the Connectivity data.
+In VSS Vehicle.Connectivity is the Connectivity data.
+In VSS CurbWeight is the Vehicle curb weight, including all liquids and full tank of fuel, but no cargo or passengers.
+In VSS Vehicle.CurbWeight is the Vehicle curb weight, including all liquids and full tank of fuel, but no cargo or passengers.
+In VSS CurrentLocation is the The current latitude and longitude of the vehicle.
+In VSS Vehicle.CurrentLocation is the The current latitude and longitude of the vehicle.
+In VSS CurrentOverallWeight is the Current overall Vehicle weight. Including passengers, cargo and other load inside the car.
+In VSS Vehicle.CurrentOverallWeight is the Current overall Vehicle weight. Including passengers, cargo and other load inside the car.
+In VSS Driver is the Driver data.
+In VSS Vehicle.Driver is the Driver data.
+In VSS EmissionsCO2 is the The CO2 emissions.
+In VSS Vehicle.EmissionsCO2 is the The CO2 emissions.
+In VSS Exterior is the Information about exterior measured by vehicle.
+In VSS Vehicle.Exterior is the Information about exterior measured by vehicle.
+In VSS GrossWeight is the Curb weight of vehicle, including all liquids and full tank of fuel and full load of cargo and passengers.
+In VSS Vehicle.GrossWeight is the Curb weight of vehicle, including all liquids and full tank of fuel and full load of cargo and passengers.
+In VSS Height is the Overall vehicle height.
+In VSS Vehicle.Height is the Overall vehicle height.
+In VSS IsBrokenDown is the Vehicle breakdown or any similar event causing vehicle to stop on the road, that might pose a risk to other road users. True = Vehicle broken down on the road, due to e.g. engine problems, flat tire, out of gas, brake problems. False = Vehicle not broken down.
+In VSS Vehicle.IsBrokenDown is the Vehicle breakdown or any similar event causing vehicle to stop on the road, that might pose a risk to other road users. True = Vehicle broken down on the road, due to e.g. engine problems, flat tire, out of gas, brake problems. False = Vehicle not broken down.
+In VSS IsMoving is the Indicates whether the vehicle is stationary or moving.
+In VSS Vehicle.IsMoving is the Indicates whether the vehicle is stationary or moving.
+In VSS Length is the Overall vehicle length.
+In VSS Vehicle.Length is the Overall vehicle length.
+In VSS LowVoltageSystemState is the State of the supply voltage of the control units (usually 12V).
+In VSS Vehicle.LowVoltageSystemState is the State of the supply voltage of the control units (usually 12V).
+In VSS MaxTowBallWeight is the Maximum vertical weight on the tow ball of a trailer.
+In VSS Vehicle.MaxTowBallWeight is the Maximum vertical weight on the tow ball of a trailer.
+In VSS MaxTowWeight is the Maximum weight of trailer.
+In VSS Vehicle.MaxTowWeight is the Maximum weight of trailer.
+In VSS OBD is the OBD data.
+In VSS Vehicle.OBD is the OBD data.
+In VSS Powertrain is the Powertrain data for battery management, etc.
+In VSS Vehicle.Powertrain is the Powertrain data for battery management, etc.
+In VSS RoofLoad is the The permitted total weight of cargo and installations (e.g. a roof rack) on top of the vehicle.
+In VSS Vehicle.RoofLoad is the The permitted total weight of cargo and installations (e.g. a roof rack) on top of the vehicle.
+In VSS Service is the Service data.
+In VSS Vehicle.Service is the Service data.
+In VSS Speed is the Vehicle speed.
+In VSS Vehicle.Speed is the Vehicle speed.
+In VSS Trailer is the Trailer signals.
+In VSS Vehicle.Trailer is the Trailer signals.
+In VSS TravelledDistance is the Odometer reading, total distance travelled during the lifetime of the vehicle.
+In VSS Vehicle.TravelledDistance is the Odometer reading, total distance travelled during the lifetime of the vehicle.
+In VSS TripMeterReading is the Current trip meter reading.
+In VSS Vehicle.TripMeterReading is the Current trip meter reading.
+In VSS VehicleIdentification is the Attributes that identify a vehicle.
+In VSS Vehicle.VehicleIdentification is the Attributes that identify a vehicle.
+In VSS VersionVSS is the Supported Version of VSS.
+In VSS Vehicle.VersionVSS is the Supported Version of VSS.
+In VSS Width is the Overall vehicle width.
+In VSS Vehicle.Width is the Overall vehicle width.
+In VSS ADAS is the All Advanced Driver Assist Systems data.
+In VSS Vehicle.ADAS is the All Advanced Driver Assist Systems data.
+In VSS Acceleration is the Spatial acceleration. Axis definitions according to ISO 8855.
+In VSS Vehicle.Acceleration is the Spatial acceleration. Axis definitions according to ISO 8855.
+In VSS AngularVelocity is the Spatial rotation. Axis definitions according to ISO 8855.
+In VSS Vehicle.AngularVelocity is the Spatial rotation. Axis definitions according to ISO 8855.
+In VSS AverageSpeed is the Average speed for the current trip.
+In VSS Vehicle.AverageSpeed is the Average speed for the current trip.
+In VSS Body is the All body components.
+In VSS Vehicle.Body is the All body components.
+In VSS Cabin is the All in-cabin components, including doors.
+In VSS Vehicle.Cabin is the All in-cabin components, including doors.
+In VSS CargoVolume is the The available volume for cargo or luggage. For automobiles, this is usually the trunk volume.
+In VSS Vehicle.CargoVolume is the The available volume for cargo or luggage. For automobiles, this is usually the trunk volume.
+In VSS Chassis is the All data concerning steering, suspension, wheels, and brakes.
+In VSS Vehicle.Chassis is the All data concerning steering, suspension, wheels, and brakes.
+In VSS Connectivity is the Connectivity data.
+In VSS Vehicle.Connectivity is the Connectivity data.
+In VSS CurbWeight is the Vehicle curb weight, including all liquids and full tank of fuel, but no cargo or passengers.
+In VSS Vehicle.CurbWeight is the Vehicle curb weight, including all liquids and full tank of fuel, but no cargo or passengers.
+In VSS CurrentLocation is the The current latitude and longitude of the vehicle.
+In VSS Vehicle.CurrentLocation is the The current latitude and longitude of the vehicle.
+In VSS CurrentOverallWeight is the Current overall Vehicle weight. Including passengers, cargo and other load inside the car.
+In VSS Vehicle.CurrentOverallWeight is the Current overall Vehicle weight. Including passengers, cargo and other load inside the car.
+In VSS Driver is the Driver data.
+In VSS Vehicle.Driver is the Driver data.
+In VSS EmissionsCO2 is the The CO2 emissions.
+In VSS Vehicle.EmissionsCO2 is the The CO2 emissions.
+In VSS Exterior is the Information about exterior measured by vehicle.
+In VSS Vehicle.Exterior is the Information about exterior measured by vehicle.
+In VSS GrossWeight is the Curb weight of vehicle, including all liquids and full tank of fuel and full load of cargo and passengers.
+In VSS Vehicle.GrossWeight is the Curb weight of vehicle, including all liquids and full tank of fuel and full load of cargo and passengers.
+In VSS Height is the Overall vehicle height.
+In VSS Vehicle.Height is the Overall vehicle height.
+In VSS IsBrokenDown is the Vehicle breakdown or any similar event causing vehicle to stop on the road, that might pose a risk to other road users. True = Vehicle broken down on the road, due to e.g. engine problems, flat tire, out of gas, brake problems. False = Vehicle not broken down.
+In VSS Vehicle.IsBrokenDown is the Vehicle breakdown or any similar event causing vehicle to stop on the road, that might pose a risk to other road users. True = Vehicle broken down on the road, due to e.g. engine problems, flat tire, out of gas, brake problems. False = Vehicle not broken down.
+In VSS IsMoving is the Indicates whether the vehicle is stationary or moving.
+In VSS Vehicle.IsMoving is the Indicates whether the vehicle is stationary or moving.
+In VSS Length is the Overall vehicle length.
+In VSS Vehicle.Length is the Overall vehicle length.
+In VSS LowVoltageSystemState is the State of the supply voltage of the control units (usually 12V).
+In VSS Vehicle.LowVoltageSystemState is the State of the supply voltage of the control units (usually 12V).
+In VSS MaxTowBallWeight is the Maximum vertical weight on the tow ball of a trailer.
+In VSS Vehicle.MaxTowBallWeight is the Maximum vertical weight on the tow ball of a trailer.
+In VSS MaxTowWeight is the Maximum weight of trailer.
+In VSS Vehicle.MaxTowWeight is the Maximum weight of trailer.
+In VSS OBD is the OBD data.
+In VSS Vehicle.OBD is the OBD data.
+In VSS Powertrain is the Powertrain data for battery management, etc.
+In VSS Vehicle.Powertrain is the Powertrain data for battery management, etc.
+In VSS RoofLoad is the The permitted total weight of cargo and installations (e.g. a roof rack) on top of the vehicle.
+In VSS Vehicle.RoofLoad is the The permitted total weight of cargo and installations (e.g. a roof rack) on top of the vehicle.
+In VSS Service is the Service data.
+In VSS Vehicle.Service is the Service data.
+In VSS Speed is the Vehicle speed.
+In VSS Vehicle.Speed is the Vehicle speed.
+In VSS Trailer is the Trailer signals.
+In VSS Vehicle.Trailer is the Trailer signals.
+In VSS TravelledDistance is the Odometer reading, total distance travelled during the lifetime of the vehicle.
+In VSS Vehicle.TravelledDistance is the Odometer reading, total distance travelled during the lifetime of the vehicle.
+In VSS TripMeterReading is the Current trip meter reading.
+In VSS Vehicle.TripMeterReading is the Current trip meter reading.
+In VSS VehicleIdentification is the Attributes that identify a vehicle.
+In VSS Vehicle.VehicleIdentification is the Attributes that identify a vehicle.
+In VSS VersionVSS is the Supported Version of VSS.
+In VSS Vehicle.VersionVSS is the Supported Version of VSS.
+In VSS Width is the Overall vehicle width.
+In VSS Vehicle.Width is the Overall vehicle width.
+In VSS ADAS is the All Advanced Driver Assist Systems data.
+In VSS Vehicle.ADAS is the All Advanced Driver Assist Systems data.
+In VSS Acceleration is the Spatial acceleration. Axis definitions according to ISO 8855.
+In VSS Vehicle.Acceleration is the Spatial acceleration. Axis definitions according to ISO 8855.
+In VSS AngularVelocity is the Spatial rotation. Axis definitions according to ISO 8855.
+In VSS Vehicle.AngularVelocity is the Spatial rotation. Axis definitions according to ISO 8855.
+In VSS AverageSpeed is the Average speed for the current trip.
+In VSS Vehicle.AverageSpeed is the Average speed for the current trip.
+In VSS Body is the All body components.
+In VSS Vehicle.Body is the All body components.
+In VSS Cabin is the All in-cabin components, including doors.
+In VSS Vehicle.Cabin is the All in-cabin components, including doors.
+In VSS CargoVolume is the The available volume for cargo or luggage. For automobiles, this is usually the trunk volume.
+In VSS Vehicle.CargoVolume is the The available volume for cargo or luggage. For automobiles, this is usually the trunk volume.
+In VSS Chassis is the All data concerning steering, suspension, wheels, and brakes.
+In VSS Vehicle.Chassis is the All data concerning steering, suspension, wheels, and brakes.
+In VSS Connectivity is the Connectivity data.
+In VSS Vehicle.Connectivity is the Connectivity data.
+In VSS CurbWeight is the Vehicle curb weight, including all liquids and full tank of fuel, but no cargo or passengers.
+In VSS Vehicle.CurbWeight is the Vehicle curb weight, including all liquids and full tank of fuel, but no cargo or passengers.
+In VSS CurrentLocation is the The current latitude and longitude of the vehicle.
+In VSS Vehicle.CurrentLocation is the The current latitude and longitude of the vehicle.
+In VSS CurrentOverallWeight is the Current overall Vehicle weight. Including passengers, cargo and other load inside the car.
+In VSS Vehicle.CurrentOverallWeight is the Current overall Vehicle weight. Including passengers, cargo and other load inside the car.
+In VSS Driver is the Driver data.
+In VSS Vehicle.Driver is the Driver data.
+In VSS EmissionsCO2 is the The CO2 emissions.
+In VSS Vehicle.EmissionsCO2 is the The CO2 emissions.
+In VSS Exterior is the Information about exterior measured by vehicle.
+In VSS Vehicle.Exterior is the Information about exterior measured by vehicle.
+In VSS GrossWeight is the Curb weight of vehicle, including all liquids and full tank of fuel and full load of cargo and passengers.
+In VSS Vehicle.GrossWeight is the Curb weight of vehicle, including all liquids and full tank of fuel and full load of cargo and passengers.
+In VSS Height is the Overall vehicle height.
+In VSS Vehicle.Height is the Overall vehicle height.
+In VSS IsBrokenDown is the Vehicle breakdown or any similar event causing vehicle to stop on the road, that might pose a risk to other road users. True = Vehicle broken down on the road, due to e.g. engine problems, flat tire, out of gas, brake problems. False = Vehicle not broken down.
+In VSS Vehicle.IsBrokenDown is the Vehicle breakdown or any similar event causing vehicle to stop on the road, that might pose a risk to other road users. True = Vehicle broken down on the road, due to e.g. engine problems, flat tire, out of gas, brake problems. False = Vehicle not broken down.
+In VSS IsMoving is the Indicates whether the vehicle is stationary or moving.
+In VSS Vehicle.IsMoving is the Indicates whether the vehicle is stationary or moving.
+In VSS Length is the Overall vehicle length.
+In VSS Vehicle.Length is the Overall vehicle length.
+In VSS LowVoltageSystemState is the State of the supply voltage of the control units (usually 12V).
+In VSS Vehicle.LowVoltageSystemState is the State of the supply voltage of the control units (usually 12V).
+In VSS MaxTowBallWeight is the Maximum vertical weight on the tow ball of a trailer.
+In VSS Vehicle.MaxTowBallWeight is the Maximum vertical weight on the tow ball of a trailer.
+In VSS MaxTowWeight is the Maximum weight of trailer.
+In VSS Vehicle.MaxTowWeight is the Maximum weight of trailer.
+In VSS OBD is the OBD data.
+In VSS Vehicle.OBD is the OBD data.
+In VSS Powertrain is the Powertrain data for battery management, etc.
+In VSS Vehicle.Powertrain is the Powertrain data for battery management, etc.
+In VSS RoofLoad is the The permitted total weight of cargo and installations (e.g. a roof rack) on top of the vehicle.
+In VSS Vehicle.RoofLoad is the The permitted total weight of cargo and installations (e.g. a roof rack) on top of the vehicle.
+In VSS Service is the Service data.
+In VSS Vehicle.Service is the Service data.
+In VSS Speed is the Vehicle speed.
+In VSS Vehicle.Speed is the Vehicle speed.
+In VSS Trailer is the Trailer signals.
+In VSS Vehicle.Trailer is the Trailer signals.
+In VSS TravelledDistance is the Odometer reading, total distance travelled during the lifetime of the vehicle.
+In VSS Vehicle.TravelledDistance is the Odometer reading, total distance travelled during the lifetime of the vehicle.
+In VSS TripMeterReading is the Current trip meter reading.
+In VSS Vehicle.TripMeterReading is the Current trip meter reading.
+In VSS VehicleIdentification is the Attributes that identify a vehicle.
+In VSS Vehicle.VehicleIdentification is the Attributes that identify a vehicle.
+In VSS VersionVSS is the Supported Version of VSS.
+In VSS Vehicle.VersionVSS is the Supported Version of VSS.
+In VSS Width is the Overall vehicle width.
+In VSS Vehicle.Width is the Overall vehicle width.
+In VSS ADAS is the All Advanced Driver Assist Systems data.
+In VSS Vehicle.ADAS is the All Advanced Driver Assist Systems data.
+In VSS Acceleration is the Spatial acceleration. Axis definitions according to ISO 8855.
+In VSS Vehicle.Acceleration is the Spatial acceleration. Axis definitions according to ISO 8855.
+In VSS AngularVelocity is the Spatial rotation. Axis definitions according to ISO 8855.
+In VSS Vehicle.AngularVelocity is the Spatial rotation. Axis definitions according to ISO 8855.
+In VSS AverageSpeed is the Average speed for the current trip.
+In VSS Vehicle.AverageSpeed is the Average speed for the current trip.
+In VSS Body is the All body components.
+In VSS Vehicle.Body is the All body components.
+In VSS Cabin is the All in-cabin components, including doors.
+In VSS Vehicle.Cabin is the All in-cabin components, including doors.
+In VSS CargoVolume is the The available volume for cargo or luggage. For automobiles, this is usually the trunk volume.
+In VSS Vehicle.CargoVolume is the The available volume for cargo or luggage. For automobiles, this is usually the trunk volume.
+In VSS Chassis is the All data concerning steering, suspension, wheels, and brakes.
+In VSS Vehicle.Chassis is the All data concerning steering, suspension, wheels, and brakes.
+In VSS Connectivity is the Connectivity data.
+In VSS Vehicle.Connectivity is the Connectivity data.
+In VSS CurbWeight is the Vehicle curb weight, including all liquids and full tank of fuel, but no cargo or passengers.
+In VSS Vehicle.CurbWeight is the Vehicle curb weight, including all liquids and full tank of fuel, but no cargo or passengers.
+In VSS CurrentLocation is the The current latitude and longitude of the vehicle.
+In VSS Vehicle.CurrentLocation is the The current latitude and longitude of the vehicle.
+In VSS CurrentOverallWeight is the Current overall Vehicle weight. Including passengers, cargo and other load inside the car.
+In VSS Vehicle.CurrentOverallWeight is the Current overall Vehicle weight. Including passengers, cargo and other load inside the car.
+In VSS Driver is the Driver data.
+In VSS Vehicle.Driver is the Driver data.
+In VSS EmissionsCO2 is the The CO2 emissions.
+In VSS Vehicle.EmissionsCO2 is the The CO2 emissions.
+In VSS Exterior is the Information about exterior measured by vehicle.
+In VSS Vehicle.Exterior is the Information about exterior measured by vehicle.
+In VSS GrossWeight is the Curb weight of vehicle, including all liquids and full tank of fuel and full load of cargo and passengers.
+In VSS Vehicle.GrossWeight is the Curb weight of vehicle, including all liquids and full tank of fuel and full load of cargo and passengers.
+In VSS Height is the Overall vehicle height.
+In VSS Vehicle.Height is the Overall vehicle height.
+In VSS IsBrokenDown is the Vehicle breakdown or any similar event causing vehicle to stop on the road, that might pose a risk to other road users. True = Vehicle broken down on the road, due to e.g. engine problems, flat tire, out of gas, brake problems. False = Vehicle not broken down.
+In VSS Vehicle.IsBrokenDown is the Vehicle breakdown or any similar event causing vehicle to stop on the road, that might pose a risk to other road users. True = Vehicle broken down on the road, due to e.g. engine problems, flat tire, out of gas, brake problems. False = Vehicle not broken down.
+In VSS IsMoving is the Indicates whether the vehicle is stationary or moving.
+In VSS Vehicle.IsMoving is the Indicates whether the vehicle is stationary or moving.
+In VSS Length is the Overall vehicle length.
+In VSS Vehicle.Length is the Overall vehicle length.
+In VSS LowVoltageSystemState is the State of the supply voltage of the control units (usually 12V).
+In VSS Vehicle.LowVoltageSystemState is the State of the supply voltage of the control units (usually 12V).
+In VSS MaxTowBallWeight is the Maximum vertical weight on the tow ball of a trailer.
+In VSS Vehicle.MaxTowBallWeight is the Maximum vertical weight on the tow ball of a trailer.
+In VSS MaxTowWeight is the Maximum weight of trailer.
+In VSS Vehicle.MaxTowWeight is the Maximum weight of trailer.
+In VSS OBD is the OBD data.
+In VSS Vehicle.OBD is the OBD data.
+In VSS Powertrain is the Powertrain data for battery management, etc.
+In VSS Vehicle.Powertrain is the Powertrain data for battery management, etc.
+In VSS RoofLoad is the The permitted total weight of cargo and installations (e.g. a roof rack) on top of the vehicle.
+In VSS Vehicle.RoofLoad is the The permitted total weight of cargo and installations (e.g. a roof rack) on top of the vehicle.
+In VSS Service is the Service data.
+In VSS Vehicle.Service is the Service data.
+In VSS Speed is the Vehicle speed.
+In VSS Vehicle.Speed is the Vehicle speed.
+In VSS Trailer is the Trailer signals.
+In VSS Vehicle.Trailer is the Trailer signals.
+In VSS TravelledDistance is the Odometer reading, total distance travelled during the lifetime of the vehicle.
+In VSS Vehicle.TravelledDistance is the Odometer reading, total distance travelled during the lifetime of the vehicle.
+In VSS TripMeterReading is the Current trip meter reading.
+In VSS Vehicle.TripMeterReading is the Current trip meter reading.
+In VSS VehicleIdentification is the Attributes that identify a vehicle.
+In VSS Vehicle.VehicleIdentification is the Attributes that identify a vehicle.
+In VSS VersionVSS is the Supported Version of VSS.
+In VSS Vehicle.VersionVSS is the Supported Version of VSS.
+In VSS Width is the Overall vehicle width.
+In VSS Vehicle.Width is the Overall vehicle width.
+In VSS ADAS is the All Advanced Driver Assist Systems data.
+In VSS Vehicle.ADAS is the All Advanced Driver Assist Systems data.
+In VSS Acceleration is the Spatial acceleration. Axis definitions according to ISO 8855.
+In VSS Vehicle.Acceleration is the Spatial acceleration. Axis definitions according to ISO 8855.
+In VSS AngularVelocity is the Spatial rotation. Axis definitions according to ISO 8855.
+In VSS Vehicle.AngularVelocity is the Spatial rotation. Axis definitions according to ISO 8855.
+In VSS AverageSpeed is the Average speed for the current trip.
+In VSS Vehicle.AverageSpeed is the Average speed for the current trip.
+In VSS Body is the All body components.
+In VSS Vehicle.Body is the All body components.
+In VSS Cabin is the All in-cabin components, including doors.
+In VSS Vehicle.Cabin is the All in-cabin components, including doors.
+In VSS CargoVolume is the The available volume for cargo or luggage. For automobiles, this is usually the trunk volume.
+In VSS Vehicle.CargoVolume is the The available volume for cargo or luggage. For automobiles, this is usually the trunk volume.
+In VSS Chassis is the All data concerning steering, suspension, wheels, and brakes.
+In VSS Vehicle.Chassis is the All data concerning steering, suspension, wheels, and brakes.
+In VSS Connectivity is the Connectivity data.
+In VSS Vehicle.Connectivity is the Connectivity data.
+In VSS CurbWeight is the Vehicle curb weight, including all liquids and full tank of fuel, but no cargo or passengers.
+In VSS Vehicle.CurbWeight is the Vehicle curb weight, including all liquids and full tank of fuel, but no cargo or passengers.
+In VSS CurrentLocation is the The current latitude and longitude of the vehicle.
+In VSS Vehicle.CurrentLocation is the The current latitude and longitude of the vehicle.
+In VSS CurrentOverallWeight is the Current overall Vehicle weight. Including passengers, cargo and other load inside the car.
+In VSS Vehicle.CurrentOverallWeight is the Current overall Vehicle weight. Including passengers, cargo and other load inside the car.
+In VSS Driver is the Driver data.
+In VSS Vehicle.Driver is the Driver data.
+In VSS EmissionsCO2 is the The CO2 emissions.
+In VSS Vehicle.EmissionsCO2 is the The CO2 emissions.
+In VSS Exterior is the Information about exterior measured by vehicle.
+In VSS Vehicle.Exterior is the Information about exterior measured by vehicle.
+In VSS GrossWeight is the Curb weight of vehicle, including all liquids and full tank of fuel and full load of cargo and passengers.
+In VSS Vehicle.GrossWeight is the Curb weight of vehicle, including all liquids and full tank of fuel and full load of cargo and passengers.
+In VSS Height is the Overall vehicle height.
+In VSS Vehicle.Height is the Overall vehicle height.
+In VSS IsBrokenDown is the Vehicle breakdown or any similar event causing vehicle to stop on the road, that might pose a risk to other road users. True = Vehicle broken down on the road, due to e.g. engine problems, flat tire, out of gas, brake problems. False = Vehicle not broken down.
+In VSS Vehicle.IsBrokenDown is the Vehicle breakdown or any similar event causing vehicle to stop on the road, that might pose a risk to other road users. True = Vehicle broken down on the road, due to e.g. engine problems, flat tire, out of gas, brake problems. False = Vehicle not broken down.
+In VSS IsMoving is the Indicates whether the vehicle is stationary or moving.
+In VSS Vehicle.IsMoving is the Indicates whether the vehicle is stationary or moving.
+In VSS Length is the Overall vehicle length.
+In VSS Vehicle.Length is the Overall vehicle length.
+In VSS LowVoltageSystemState is the State of the supply voltage of the control units (usually 12V).
+In VSS Vehicle.LowVoltageSystemState is the State of the supply voltage of the control units (usually 12V).
+In VSS MaxTowBallWeight is the Maximum vertical weight on the tow ball of a trailer.
+In VSS Vehicle.MaxTowBallWeight is the Maximum vertical weight on the tow ball of a trailer.
+In VSS MaxTowWeight is the Maximum weight of trailer.
+In VSS Vehicle.MaxTowWeight is the Maximum weight of trailer.
+In VSS OBD is the OBD data.
+In VSS Vehicle.OBD is the OBD data.
+In VSS Powertrain is the Powertrain data for battery management, etc.
+In VSS Vehicle.Powertrain is the Powertrain data for battery management, etc.
+In VSS RoofLoad is the The permitted total weight of cargo and installations (e.g. a roof rack) on top of the vehicle.
+In VSS Vehicle.RoofLoad is the The permitted total weight of cargo and installations (e.g. a roof rack) on top of the vehicle.
+In VSS Service is the Service data.
+In VSS Vehicle.Service is the Service data.
+In VSS Speed is the Vehicle speed.
+In VSS Vehicle.Speed is the Vehicle speed.
+In VSS Trailer is the Trailer signals.
+In VSS Vehicle.Trailer is the Trailer signals.
+In VSS TravelledDistance is the Odometer reading, total distance travelled during the lifetime of the vehicle.
+In VSS Vehicle.TravelledDistance is the Odometer reading, total distance travelled during the lifetime of the vehicle.
+In VSS TripMeterReading is the Current trip meter reading.
+In VSS Vehicle.TripMeterReading is the Current trip meter reading.
+In VSS VehicleIdentification is the Attributes that identify a vehicle.
+In VSS Vehicle.VehicleIdentification is the Attributes that identify a vehicle.
+In VSS VersionVSS is the Supported Version of VSS.
+In VSS Vehicle.VersionVSS is the Supported Version of VSS.
+In VSS Width is the Overall vehicle width.
+In VSS Vehicle.Width is the Overall vehicle width.
+In VSS ADAS is the All Advanced Driver Assist Systems data.
+In VSS Vehicle.ADAS is the All Advanced Driver Assist Systems data.
+In VSS Acceleration is the Spatial acceleration. Axis definitions according to ISO 8855.
+In VSS Vehicle.Acceleration is the Spatial acceleration. Axis definitions according to ISO 8855.
+In VSS AngularVelocity is the Spatial rotation. Axis definitions according to ISO 8855.
+In VSS Vehicle.AngularVelocity is the Spatial rotation. Axis definitions according to ISO 8855.
+In VSS AverageSpeed is the Average speed for the current trip.
+In VSS Vehicle.AverageSpeed is the Average speed for the current trip.
+In VSS Body is the All body components.
+In VSS Vehicle.Body is the All body components.
+In VSS Cabin is the All in-cabin components, including doors.
+In VSS Vehicle.Cabin is the All in-cabin components, including doors.
+In VSS CargoVolume is the The available volume for cargo or luggage. For automobiles, this is usually the trunk volume.
+In VSS Vehicle.CargoVolume is the The available volume for cargo or luggage. For automobiles, this is usually the trunk volume.
+In VSS Chassis is the All data concerning steering, suspension, wheels, and brakes.
+In VSS Vehicle.Chassis is the All data concerning steering, suspension, wheels, and brakes.
+In VSS Connectivity is the Connectivity data.
+In VSS Vehicle.Connectivity is the Connectivity data.
+In VSS CurbWeight is the Vehicle curb weight, including all liquids and full tank of fuel, but no cargo or passengers.
+In VSS Vehicle.CurbWeight is the Vehicle curb weight, including all liquids and full tank of fuel, but no cargo or passengers.
+In VSS CurrentLocation is the The current latitude and longitude of the vehicle.
+In VSS Vehicle.CurrentLocation is the The current latitude and longitude of the vehicle.
+In VSS CurrentOverallWeight is the Current overall Vehicle weight. Including passengers, cargo and other load inside the car.
+In VSS Vehicle.CurrentOverallWeight is the Current overall Vehicle weight. Including passengers, cargo and other load inside the car.
+In VSS Driver is the Driver data.
+In VSS Vehicle.Driver is the Driver data.
+In VSS EmissionsCO2 is the The CO2 emissions.
+In VSS Vehicle.EmissionsCO2 is the The CO2 emissions.
+In VSS Exterior is the Information about exterior measured by vehicle.
+In VSS Vehicle.Exterior is the Information about exterior measured by vehicle.
+In VSS GrossWeight is the Curb weight of vehicle, including all liquids and full tank of fuel and full load of cargo and passengers.
+In VSS Vehicle.GrossWeight is the Curb weight of vehicle, including all liquids and full tank of fuel and full load of cargo and passengers.
+In VSS Height is the Overall vehicle height.
+In VSS Vehicle.Height is the Overall vehicle height.
+In VSS IsBrokenDown is the Vehicle breakdown or any similar event causing vehicle to stop on the road, that might pose a risk to other road users. True = Vehicle broken down on the road, due to e.g. engine problems, flat tire, out of gas, brake problems. False = Vehicle not broken down.
+In VSS Vehicle.IsBrokenDown is the Vehicle breakdown or any similar event causing vehicle to stop on the road, that might pose a risk to other road users. True = Vehicle broken down on the road, due to e.g. engine problems, flat tire, out of gas, brake problems. False = Vehicle not broken down.
+In VSS IsMoving is the Indicates whether the vehicle is stationary or moving.
+In VSS Vehicle.IsMoving is the Indicates whether the vehicle is stationary or moving.
+In VSS Length is the Overall vehicle length.
+In VSS Vehicle.Length is the Overall vehicle length.
+In VSS LowVoltageSystemState is the State of the supply voltage of the control units (usually 12V).
+In VSS Vehicle.LowVoltageSystemState is the State of the supply voltage of the control units (usually 12V).
+In VSS MaxTowBallWeight is the Maximum vertical weight on the tow ball of a trailer.
+In VSS Vehicle.MaxTowBallWeight is the Maximum vertical weight on the tow ball of a trailer.
+In VSS MaxTowWeight is the Maximum weight of trailer.
+In VSS Vehicle.MaxTowWeight is the Maximum weight of trailer.
+In VSS OBD is the OBD data.
+In VSS Vehicle.OBD is the OBD data.
+In VSS Powertrain is the Powertrain data for battery management, etc.
+In VSS Vehicle.Powertrain is the Powertrain data for battery management, etc.
+In VSS RoofLoad is the The permitted total weight of cargo and installations (e.g. a roof rack) on top of the vehicle.
+In VSS Vehicle.RoofLoad is the The permitted total weight of cargo and installations (e.g. a roof rack) on top of the vehicle.
+In VSS Service is the Service data.
+In VSS Vehicle.Service is the Service data.
+In VSS Speed is the Vehicle speed.
+In VSS Vehicle.Speed is the Vehicle speed.
+In VSS Trailer is the Trailer signals.
+In VSS Vehicle.Trailer is the Trailer signals.
+In VSS TravelledDistance is the Odometer reading, total distance travelled during the lifetime of the vehicle.
+In VSS Vehicle.TravelledDistance is the Odometer reading, total distance travelled during the lifetime of the vehicle.
+In VSS TripMeterReading is the Current trip meter reading.
+In VSS Vehicle.TripMeterReading is the Current trip meter reading.
+In VSS VehicleIdentification is the Attributes that identify a vehicle.
+In VSS Vehicle.VehicleIdentification is the Attributes that identify a vehicle.
+In VSS VersionVSS is the Supported Version of VSS.
+In VSS Vehicle.VersionVSS is the Supported Version of VSS.
+In VSS Width is the Overall vehicle width.
+In VSS Vehicle.Width is the Overall vehicle width.
+In VSS ADAS is the All Advanced Driver Assist Systems data.
+In VSS Vehicle.ADAS is the All Advanced Driver Assist Systems data.
+In VSS Acceleration is the Spatial acceleration. Axis definitions according to ISO 8855.
+In VSS Vehicle.Acceleration is the Spatial acceleration. Axis definitions according to ISO 8855.
+In VSS AngularVelocity is the Spatial rotation. Axis definitions according to ISO 8855.
+In VSS Vehicle.AngularVelocity is the Spatial rotation. Axis definitions according to ISO 8855.
+In VSS AverageSpeed is the Average speed for the current trip.
+In VSS Vehicle.AverageSpeed is the Average speed for the current trip.
+In VSS Body is the All body components.
+In VSS Vehicle.Body is the All body components.
+In VSS Cabin is the All in-cabin components, including doors.
+In VSS Vehicle.Cabin is the All in-cabin components, including doors.
+In VSS CargoVolume is the The available volume for cargo or luggage. For automobiles, this is usually the trunk volume.
+In VSS Vehicle.CargoVolume is the The available volume for cargo or luggage. For automobiles, this is usually the trunk volume.
+In VSS Chassis is the All data concerning steering, suspension, wheels, and brakes.
+In VSS Vehicle.Chassis is the All data concerning steering, suspension, wheels, and brakes.
+In VSS Connectivity is the Connectivity data.
+In VSS Vehicle.Connectivity is the Connectivity data.
+In VSS CurbWeight is the Vehicle curb weight, including all liquids and full tank of fuel, but no cargo or passengers.
+In VSS Vehicle.CurbWeight is the Vehicle curb weight, including all liquids and full tank of fuel, but no cargo or passengers.
+In VSS CurrentLocation is the The current latitude and longitude of the vehicle.
+In VSS Vehicle.CurrentLocation is the The current latitude and longitude of the vehicle.
+In VSS CurrentOverallWeight is the Current overall Vehicle weight. Including passengers, cargo and other load inside the car.
+In VSS Vehicle.CurrentOverallWeight is the Current overall Vehicle weight. Including passengers, cargo and other load inside the car.
+In VSS Driver is the Driver data.
+In VSS Vehicle.Driver is the Driver data.
+In VSS EmissionsCO2 is the The CO2 emissions.
+In VSS Vehicle.EmissionsCO2 is the The CO2 emissions.
+In VSS Exterior is the Information about exterior measured by vehicle.
+In VSS Vehicle.Exterior is the Information about exterior measured by vehicle.
+In VSS GrossWeight is the Curb weight of vehicle, including all liquids and full tank of fuel and full load of cargo and passengers.
+In VSS Vehicle.GrossWeight is the Curb weight of vehicle, including all liquids and full tank of fuel and full load of cargo and passengers.
+In VSS Height is the Overall vehicle height.
+In VSS Vehicle.Height is the Overall vehicle height.
+In VSS IsBrokenDown is the Vehicle breakdown or any similar event causing vehicle to stop on the road, that might pose a risk to other road users. True = Vehicle broken down on the road, due to e.g. engine problems, flat tire, out of gas, brake problems. False = Vehicle not broken down.
+In VSS Vehicle.IsBrokenDown is the Vehicle breakdown or any similar event causing vehicle to stop on the road, that might pose a risk to other road users. True = Vehicle broken down on the road, due to e.g. engine problems, flat tire, out of gas, brake problems. False = Vehicle not broken down.
+In VSS IsMoving is the Indicates whether the vehicle is stationary or moving.
+In VSS Vehicle.IsMoving is the Indicates whether the vehicle is stationary or moving.
+In VSS Length is the Overall vehicle length.
+In VSS Vehicle.Length is the Overall vehicle length.
+In VSS LowVoltageSystemState is the State of the supply voltage of the control units (usually 12V).
+In VSS Vehicle.LowVoltageSystemState is the State of the supply voltage of the control units (usually 12V).
+In VSS MaxTowBallWeight is the Maximum vertical weight on the tow ball of a trailer.
+In VSS Vehicle.MaxTowBallWeight is the Maximum vertical weight on the tow ball of a trailer.
+In VSS MaxTowWeight is the Maximum weight of trailer.
+In VSS Vehicle.MaxTowWeight is the Maximum weight of trailer.
+In VSS OBD is the OBD data.
+In VSS Vehicle.OBD is the OBD data.
+In VSS Powertrain is the Powertrain data for battery management, etc.
+In VSS Vehicle.Powertrain is the Powertrain data for battery management, etc.
+In VSS RoofLoad is the The permitted total weight of cargo and installations (e.g. a roof rack) on top of the vehicle.
+In VSS Vehicle.RoofLoad is the The permitted total weight of cargo and installations (e.g. a roof rack) on top of the vehicle.
+In VSS Service is the Service data.
+In VSS Vehicle.Service is the Service data.
+In VSS Speed is the Vehicle speed.
+In VSS Vehicle.Speed is the Vehicle speed.
+In VSS Trailer is the Trailer signals.
+In VSS Vehicle.Trailer is the Trailer signals.
+In VSS TravelledDistance is the Odometer reading, total distance travelled during the lifetime of the vehicle.
+In VSS Vehicle.TravelledDistance is the Odometer reading, total distance travelled during the lifetime of the vehicle.
+In VSS TripMeterReading is the Current trip meter reading.
+In VSS Vehicle.TripMeterReading is the Current trip meter reading.
+In VSS VehicleIdentification is the Attributes that identify a vehicle.
+In VSS Vehicle.VehicleIdentification is the Attributes that identify a vehicle.
+In VSS VersionVSS is the Supported Version of VSS.
+In VSS Vehicle.VersionVSS is the Supported Version of VSS.
+In VSS Width is the Overall vehicle width.
+In VSS Vehicle.Width is the Overall vehicle width.
+In VSS ADAS is the All Advanced Driver Assist Systems data.
+In VSS Vehicle.ADAS is the All Advanced Driver Assist Systems data.
+In VSS Acceleration is the Spatial acceleration. Axis definitions according to ISO 8855.
+In VSS Vehicle.Acceleration is the Spatial acceleration. Axis definitions according to ISO 8855.
+In VSS AngularVelocity is the Spatial rotation. Axis definitions according to ISO 8855.
+In VSS Vehicle.AngularVelocity is the Spatial rotation. Axis definitions according to ISO 8855.
+In VSS AverageSpeed is the Average speed for the current trip.
+In VSS Vehicle.AverageSpeed is the Average speed for the current trip.
+In VSS Body is the All body components.
+In VSS Vehicle.Body is the All body components.
+In VSS Cabin is the All in-cabin components, including doors.
+In VSS Vehicle.Cabin is the All in-cabin components, including doors.
+In VSS CargoVolume is the The available volume for cargo or luggage. For automobiles, this is usually the trunk volume.
+In VSS Vehicle.CargoVolume is the The available volume for cargo or luggage. For automobiles, this is usually the trunk volume.
+In VSS Chassis is the All data concerning steering, suspension, wheels, and brakes.
+In VSS Vehicle.Chassis is the All data concerning steering, suspension, wheels, and brakes.
+In VSS Connectivity is the Connectivity data.
+In VSS Vehicle.Connectivity is the Connectivity data.
+In VSS CurbWeight is the Vehicle curb weight, including all liquids and full tank of fuel, but no cargo or passengers.
+In VSS Vehicle.CurbWeight is the Vehicle curb weight, including all liquids and full tank of fuel, but no cargo or passengers.
+In VSS CurrentLocation is the The current latitude and longitude of the vehicle.
+In VSS Vehicle.CurrentLocation is the The current latitude and longitude of the vehicle.
+In VSS CurrentOverallWeight is the Current overall Vehicle weight. Including passengers, cargo and other load inside the car.
+In VSS Vehicle.CurrentOverallWeight is the Current overall Vehicle weight. Including passengers, cargo and other load inside the car.
+In VSS Driver is the Driver data.
+In VSS Vehicle.Driver is the Driver data.
+In VSS EmissionsCO2 is the The CO2 emissions.
+In VSS Vehicle.EmissionsCO2 is the The CO2 emissions.
+In VSS Exterior is the Information about exterior measured by vehicle.
+In VSS Vehicle.Exterior is the Information about exterior measured by vehicle.
+In VSS GrossWeight is the Curb weight of vehicle, including all liquids and full tank of fuel and full load of cargo and passengers.
+In VSS Vehicle.GrossWeight is the Curb weight of vehicle, including all liquids and full tank of fuel and full load of cargo and passengers.
+In VSS Height is the Overall vehicle height.
+In VSS Vehicle.Height is the Overall vehicle height.
+In VSS IsBrokenDown is the Vehicle breakdown or any similar event causing vehicle to stop on the road, that might pose a risk to other road users. True = Vehicle broken down on the road, due to e.g. engine problems, flat tire, out of gas, brake problems. False = Vehicle not broken down.
+In VSS Vehicle.IsBrokenDown is the Vehicle breakdown or any similar event causing vehicle to stop on the road, that might pose a risk to other road users. True = Vehicle broken down on the road, due to e.g. engine problems, flat tire, out of gas, brake problems. False = Vehicle not broken down.
+In VSS IsMoving is the Indicates whether the vehicle is stationary or moving.
+In VSS Vehicle.IsMoving is the Indicates whether the vehicle is stationary or moving.
+In VSS Length is the Overall vehicle length.
+In VSS Vehicle.Length is the Overall vehicle length.
+In VSS LowVoltageSystemState is the State of the supply voltage of the control units (usually 12V).
+In VSS Vehicle.LowVoltageSystemState is the State of the supply voltage of the control units (usually 12V).
+In VSS MaxTowBallWeight is the Maximum vertical weight on the tow ball of a trailer.
+In VSS Vehicle.MaxTowBallWeight is the Maximum vertical weight on the tow ball of a trailer.
+In VSS MaxTowWeight is the Maximum weight of trailer.
+In VSS Vehicle.MaxTowWeight is the Maximum weight of trailer.
+In VSS OBD is the OBD data.
+In VSS Vehicle.OBD is the OBD data.
+In VSS Powertrain is the Powertrain data for battery management, etc.
+In VSS Vehicle.Powertrain is the Powertrain data for battery management, etc.
+In VSS RoofLoad is the The permitted total weight of cargo and installations (e.g. a roof rack) on top of the vehicle.
+In VSS Vehicle.RoofLoad is the The permitted total weight of cargo and installations (e.g. a roof rack) on top of the vehicle.
+In VSS Service is the Service data.
+In VSS Vehicle.Service is the Service data.
+In VSS Speed is the Vehicle speed.
+In VSS Vehicle.Speed is the Vehicle speed.
+In VSS Trailer is the Trailer signals.
+In VSS Vehicle.Trailer is the Trailer signals.
+In VSS TravelledDistance is the Odometer reading, total distance travelled during the lifetime of the vehicle.
+In VSS Vehicle.TravelledDistance is the Odometer reading, total distance travelled during the lifetime of the vehicle.
+In VSS TripMeterReading is the Current trip meter reading.
+In VSS Vehicle.TripMeterReading is the Current trip meter reading.
+In VSS VehicleIdentification is the Attributes that identify a vehicle.
+In VSS Vehicle.VehicleIdentification is the Attributes that identify a vehicle.
+In VSS VersionVSS is the Supported Version of VSS.
+In VSS Vehicle.VersionVSS is the Supported Version of VSS.
+In VSS Width is the Overall vehicle width.
+In VSS Vehicle.Width is the Overall vehicle width.
+In VSS ADAS is the All Advanced Driver Assist Systems data.
+In VSS Vehicle.ADAS is the All Advanced Driver Assist Systems data.
+In VSS Acceleration is the Spatial acceleration. Axis definitions according to ISO 8855.
+In VSS Vehicle.Acceleration is the Spatial acceleration. Axis definitions according to ISO 8855.
+In VSS AngularVelocity is the Spatial rotation. Axis definitions according to ISO 8855.
+In VSS Vehicle.AngularVelocity is the Spatial rotation. Axis definitions according to ISO 8855.
+In VSS AverageSpeed is the Average speed for the current trip.
+In VSS Vehicle.AverageSpeed is the Average speed for the current trip.
+In VSS Body is the All body components.
+In VSS Vehicle.Body is the All body components.
+In VSS Cabin is the All in-cabin components, including doors.
+In VSS Vehicle.Cabin is the All in-cabin components, including doors.
+In VSS CargoVolume is the The available volume for cargo or luggage. For automobiles, this is usually the trunk volume.
+In VSS Vehicle.CargoVolume is the The available volume for cargo or luggage. For automobiles, this is usually the trunk volume.
+In VSS Chassis is the All data concerning steering, suspension, wheels, and brakes.
+In VSS Vehicle.Chassis is the All data concerning steering, suspension, wheels, and brakes.
+In VSS Connectivity is the Connectivity data.
+In VSS Vehicle.Connectivity is the Connectivity data.
+In VSS CurbWeight is the Vehicle curb weight, including all liquids and full tank of fuel, but no cargo or passengers.
+In VSS Vehicle.CurbWeight is the Vehicle curb weight, including all liquids and full tank of fuel, but no cargo or passengers.
+In VSS CurrentLocation is the The current latitude and longitude of the vehicle.
+In VSS Vehicle.CurrentLocation is the The current latitude and longitude of the vehicle.
+In VSS CurrentOverallWeight is the Current overall Vehicle weight. Including passengers, cargo and other load inside the car.
+In VSS Vehicle.CurrentOverallWeight is the Current overall Vehicle weight. Including passengers, cargo and other load inside the car.
+In VSS Driver is the Driver data.
+In VSS Vehicle.Driver is the Driver data.
+In VSS EmissionsCO2 is the The CO2 emissions.
+In VSS Vehicle.EmissionsCO2 is the The CO2 emissions.
+In VSS Exterior is the Information about exterior measured by vehicle.
+In VSS Vehicle.Exterior is the Information about exterior measured by vehicle.
+In VSS GrossWeight is the Curb weight of vehicle, including all liquids and full tank of fuel and full load of cargo and passengers.
+In VSS Vehicle.GrossWeight is the Curb weight of vehicle, including all liquids and full tank of fuel and full load of cargo and passengers.
+In VSS Height is the Overall vehicle height.
+In VSS Vehicle.Height is the Overall vehicle height.
+In VSS IsBrokenDown is the Vehicle breakdown or any similar event causing vehicle to stop on the road, that might pose a risk to other road users. True = Vehicle broken down on the road, due to e.g. engine problems, flat tire, out of gas, brake problems. False = Vehicle not broken down.
+In VSS Vehicle.IsBrokenDown is the Vehicle breakdown or any similar event causing vehicle to stop on the road, that might pose a risk to other road users. True = Vehicle broken down on the road, due to e.g. engine problems, flat tire, out of gas, brake problems. False = Vehicle not broken down.
+In VSS IsMoving is the Indicates whether the vehicle is stationary or moving.
+In VSS Vehicle.IsMoving is the Indicates whether the vehicle is stationary or moving.
+In VSS Length is the Overall vehicle length.
+In VSS Vehicle.Length is the Overall vehicle length.
+In VSS LowVoltageSystemState is the State of the supply voltage of the control units (usually 12V).
+In VSS Vehicle.LowVoltageSystemState is the State of the supply voltage of the control units (usually 12V).
+In VSS MaxTowBallWeight is the Maximum vertical weight on the tow ball of a trailer.
+In VSS Vehicle.MaxTowBallWeight is the Maximum vertical weight on the tow ball of a trailer.
+In VSS MaxTowWeight is the Maximum weight of trailer.
+In VSS Vehicle.MaxTowWeight is the Maximum weight of trailer.
+In VSS OBD is the OBD data.
+In VSS Vehicle.OBD is the OBD data.
+In VSS Powertrain is the Powertrain data for battery management, etc.
+In VSS Vehicle.Powertrain is the Powertrain data for battery management, etc.
+In VSS RoofLoad is the The permitted total weight of cargo and installations (e.g. a roof rack) on top of the vehicle.
+In VSS Vehicle.RoofLoad is the The permitted total weight of cargo and installations (e.g. a roof rack) on top of the vehicle.
+In VSS Service is the Service data.
+In VSS Vehicle.Service is the Service data.
+In VSS Speed is the Vehicle speed.
+In VSS Vehicle.Speed is the Vehicle speed.
+In VSS Trailer is the Trailer signals.
+In VSS Vehicle.Trailer is the Trailer signals.
+In VSS TravelledDistance is the Odometer reading, total distance travelled during the lifetime of the vehicle.
+In VSS Vehicle.TravelledDistance is the Odometer reading, total distance travelled during the lifetime of the vehicle.
+In VSS TripMeterReading is the Current trip meter reading.
+In VSS Vehicle.TripMeterReading is the Current trip meter reading.
+In VSS VehicleIdentification is the Attributes that identify a vehicle.
+In VSS Vehicle.VehicleIdentification is the Attributes that identify a vehicle.
+In VSS VersionVSS is the Supported Version of VSS.
+In VSS Vehicle.VersionVSS is the Supported Version of VSS.
+In VSS Width is the Overall vehicle width.
+In VSS Vehicle.Width is the Overall vehicle width.
